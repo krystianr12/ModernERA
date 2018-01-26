@@ -5,7 +5,7 @@
 
     $page_title = "Digital Marketing Agency | Flyers in florida | Gainesville Web Design | Graphic Design Ocala";
     $page_description = "From hosting your website to marketing your business, we're a one stop shop for all your marketing needs!";
-    $page_keywords = "Flyers in florida,Gainesville Web Design,Graphic Design Ocala";
+    $page_keywords = "Flyers in Florida,Gainesville Web Design,Graphic Design Ocala";
 
     include($_SERVER['DOCUMENT_ROOT'].'/inc/header.php');
 
