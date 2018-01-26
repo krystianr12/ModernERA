@@ -53,7 +53,7 @@
 
           <div class="col-lg-4 pad60 text-center">
             <p style="font-size: 22px;">Starting only at<br><br><span class="text-brand-color" style="font-size: 40px; font-weight: bold;">$12.99/year</span></p><br>
-            <a class="btn btn-primary" href="#">Order now</a>
+            <a class="btn btn-primary" href="https://billing.moderneradma.com/cart.php?a=add&domain=register">Order now</a>
           </div>
         </div>
       </div>
