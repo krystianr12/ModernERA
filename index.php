@@ -80,7 +80,7 @@
           <div class="container">
             <h2 class="header-shadow-dark">Photo & Video</h2>
             <p class="header-shadow-dark">Our team of videographers and photographers help you capture those beautiful moments you want to remember forever.</p><br>
-            <a class="btn btn-primary" href="http://www.alivebykatie.com/">Learn more</a>
+            <a class="btn btn-primary" href="/video-and-video/">Learn more</a>
           </div>
         </div>
       </div>
