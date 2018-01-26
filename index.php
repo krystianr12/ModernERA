@@ -12,7 +12,7 @@
     ?>
 
   <!-- Start Hero Banner  -->
-  <div class="owl-carousel hero-carousel">
+  <!-- <div class="owl-carousel hero-carousel">
     <div class="hero-item page-header" id="header-home" style="background-image: url('/assets/images/others/macbook-desk.jpg');">
       <div class="dot-overlay"></div>
       <div class="wrapper">
@@ -31,15 +31,15 @@
         <a class="btn btn-primary" href="#pricing">See plans</a>
       </div>
     </div>
-  </div>
+  </div> -->
   <!-- End Hero Banner -->
 
 
   <!-- Domain Lookup Module -->
-  <?php include($_SERVER['DOCUMENT_ROOT'].'/inc/module_domain_lookup.php') ?>
+  <?php //include($_SERVER['DOCUMENT_ROOT'].'/inc/module_domain_lookup.php') ?>
 
 
-  <section id="services">
+  <!-- <section id="services">
     <div class="container-fluid">
       <div class="row hidden-lg hidden-md hidden-sm">
         <div class="service wow fadeIn" style="background-image: url(/assets/images/services/bg-hosting.jpg); position: relative;">
@@ -118,10 +118,10 @@
         <div class="col-lg-4 image wow fadeIn" data-wow-duration="2s" style="background-image: url(/assets/images/services/bg-videography.jpg);"></div>
       </div>
     </div>
-  </section>
+  </section> -->
 
   <!-- Start Image Content Section -->
-  <section class="pad-t80 pad-b50" style="background-color: #f9f9f9; position: relative;" id="why-special">
+  <!-- <section class="pad-t80 pad-b50" style="background-color: #f9f9f9; position: relative;" id="why-special">
     <div class="container">
       <div class="row">
         <div class="col-md-4 col-sm-4"></div>
@@ -198,11 +198,11 @@
     <div class="left-half width33" style="background-image: url(assets/images/others/happyperson.jpg); background-size: cover;">
 
     </div>
-  </section>
+  </section> -->
   <!-- End Image Content Section -->
 
   <!-- Start Portfolio Section -->
-  <section id="portfolio" style="background: url(/assets/images/bg/portfolio.jpg) fixed; background-size: cover;">
+  <!-- <section id="portfolio" style="background: url(/assets/images/bg/portfolio.jpg) fixed; background-size: cover;">
     <div class="dot-overlay hidden-xs"></div>
     <div class="row">
       <div class="container">
@@ -224,11 +224,11 @@
         </div>
       </div>
     </div>
-  </section>
+  </section> -->
   <!-- End Portfolio Section -->
 
     <!-- Start Contact Form Section -->
-    <section id="contact-form" class="pad80" style="background: #f9f9f9">
+    <!-- <section id="contact-form" class="pad80" style="background: #f9f9f9">
       <div class="container">
         <div class="col-md-12">
           <form id="contactForm" class="contact-form" method="post" role="form">
@@ -293,9 +293,9 @@
           </form>
         </div>
       </div>
-    </section>
+    </section> -->
     <!-- End Contact Form Section -->
 
-  <?php include($_SERVER['DOCUMENT_ROOT'].'/inc/footer.php') ?>
+  <?php // include($_SERVER['DOCUMENT_ROOT'].'/inc/footer.php') ?>
 
 </html>
