@@ -85,37 +85,39 @@
         </div>
       </div>
 
+      <!-- DESKTOP STARTS -->
+
       <div class="row dark hidden-xs">
-        <div class="col-lg-4 image wow fadein" data-wow-duration="2s" style="background-image: url(/assets/images/services/bg-hosting.jpg);"></div>
-        <div class="col-lg-8 hidden-xs content wow fadeInRight" data-wow-duration="1.5s">
+        <div class="col-sm-4 image wow fadein" data-wow-duration="2s" style="background-image: url(/assets/images/services/bg-hosting.jpg);"></div>
+        <div class="col-sm-8 hidden-xs content wow fadeInRight" data-wow-duration="1.5s">
           <h2 class="pad50">Web Hosting</h2>
           <p>It doesn't matter how big your website is because we're ready with the latest technologies to provide our customers with excellent service for all your web hosting needs. We know how important your online presence is for you and that's why we're here to help.</p>
           <br><a class="btn btn-primary" href="/web-hosting/">Learn more</a>
         </div>
       </div>
       <div class="row hidden-xs">
-        <div class="col-lg-8 content wow fadeInLeft" data-wow-duration="1.5s">
+        <div class="col-sm-8 content wow fadeInLeft" data-wow-duration="1.5s">
           <h2 class="pad50">Web Design</h2>
           <p>We dedicate ourselves into bringing your business to the forefront of your customers browsers. Our experienced team delivers world class marketing solutions that elevate your business to the top of its market.</p>
           <br><a class="btn btn-primary" href="/web-design/">Learn more</a>
         </div>
-        <div class="col-lg-4 image wow fadeIn" data-wow-duration="2s" style="background-image: url(/assets/images/services/bg-web-design.jpg);"></div>
+        <div class="col-sm-4 image wow fadeIn" data-wow-duration="2s" style="background-image: url(/assets/images/services/bg-web-design.jpg);"></div>
       </div>
       <div class="row dark hidden-xs">
-        <div class="col-lg-4 image wow fadeIn" data-wow-duration="2s" style="background-image: url(/assets/images/services/bg-marketing.jpg);"></div>
-        <div class="col-lg-8 content wow fadeInRight" data-wow-duration="1.5s">
+        <div class="col-sm-4 image wow fadeIn" data-wow-duration="2s" style="background-image: url(/assets/images/services/bg-marketing.jpg);"></div>
+        <div class="col-sm-8 content wow fadeInRight" data-wow-duration="1.5s">
           <h2 class="pad50">Marketing & SEO</h2>
           <p>Search Engine Optimization is a digital phenomenon that is constantly evolving. With the constant advances in Google’s algorithms and the countless measures of spam campaigns the ability to understand these advances has become crucial. Our team’s focus includes strengthening a site’s content, usability, authority, to make it valuable not only in the eyes of search engines, but of users as well.</p>
           <br><a class="btn btn-primary" href="/seo/">Learn more</a>
         </div>
       </div>
       <div class="row hidden-xs">
-        <div class="col-lg-8 content wow fadeInLeft" data-wow-duration="1.5s">
+        <div class="col-sm-8 content wow fadeInLeft" data-wow-duration="1.5s">
           <h2 class="pad50">Videography & Photography</h2>
           <p>Whether you need video coverage for a wedding, birthday party, special event, etc. we've got your back. Our team of videographers and photographers can assist you in that special day to make sure they capture those moments you want to remember forever. Contact us via email or give us a call and we'll discuss your project.</p>
           <br><a class="btn btn-primary" href="http://www.alivebykatie.com/">Learn more</a>
         </div>
-        <div class="col-lg-4 image wow fadeIn" data-wow-duration="2s" style="background-image: url(/assets/images/services/bg-videography.jpg);"></div>
+        <div class="col-sm-4 image wow fadeIn" data-wow-duration="2s" style="background-image: url(/assets/images/services/bg-videography.jpg);"></div>
       </div>
     </div>
   </section>
@@ -206,7 +208,7 @@
     <div class="dot-overlay hidden-xs"></div>
     <div class="row">
       <div class="container">
-        <div class="col-lg-4 col-xs-12 text-center wow fadeIn" data-wow-duration="2s">
+        <div class="col-sm-4 col-xs-12 text-center wow fadeIn" data-wow-duration="2s">
           <div class="carousel-wrapper">
             <div class="owl-carousel portfolio-carousel owl-theme">
               <img src="/assets/images/portfolio/audi-logo.png" alt="">
@@ -217,7 +219,7 @@
             </div>
           </div>
         </div>
-        <div class="col-lg-8 col-xs-12 pad-t100 pad-b50 wow fadeInRight" data-wow-duration="2s">
+        <div class="col-sm-8 col-xs-12 pad-t100 pad-b50 wow fadeInRight" data-wow-duration="2s">
           <h2 class="text-white">Our Portfolio</h2>
           <br><p class="text-white">In our portfolio you will be able to find some of the work that we're proud to share with our audience. You'll find some of the work we've done for Audi, Mike's Tree Trimming, Macs Manatees Elementary School, CourtHouse Wedding Photography, among others!</p><br>
           <a class="btn btn-primary" href="portfolio">See more</a>
@@ -238,17 +240,17 @@
             <div class="controls">
 
               <div class="row">
-                <div class="col-lg-6">
+                <div class="col-sm-12 col-lg-6">
                   <h2>Drop Us a Message</h2><br>
                   <p>Give us a call or write a support ticket and our support team will gladly assist you with anything you need. You can also send us an email and we'll get back to you as soon as possible!</p>
                 </div>
 
-                <div class="col-lg-3 hidden-xs text-center wow fadeInRight" data-wow-duration="2s" style="margin-top: 30px;">
+                <div class="col-sm-6 col-lg-3 hidden-xs text-center wow fadeInRight" data-wow-duration="2s" style="margin-top: 30px;">
                   <i class="fa fa-mobile fa-3x"></i>
                   <p style="color: #EC1C24">352-505-8832</p>
                 </div>
 
-                <div class="col-lg-3 hidden-xs text-center wow fadeInRight" data-wow-duration="2s" style="margin-top: 30px;">
+                <div class="col-sm-6 col-lg-3 hidden-xs text-center wow fadeInRight" data-wow-duration="2s" style="margin-top: 30px;">
                   <i class="fa fa-envelope-o fa-3x"></i>
                   <p style="color: #EC1C24">contact@moderneradma.com</p>
                 </div>
