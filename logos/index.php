@@ -3,9 +3,9 @@
 
   <?php
 
-    $page_title = "Digital Marketing Agency | ModernERA DMA";
-    $page_description = "From hosting your website to marketing your business, we're a one stop shop for all your marketing needs!";
-    $page_keywords = "KEYWORDS HERE";
+    $page_title = "Logo Design Services Near Me | Logo Creator | Logo Design";
+    $page_description = "";
+    $page_keywords = "";
 
     include($_SERVER['DOCUMENT_ROOT'].'/inc/header.php');
 

@@ -296,6 +296,6 @@
     </section> -->
     <!-- End Contact Form Section -->
 
-  <?php // include($_SERVER['DOCUMENT_ROOT'].'/inc/footer.php') ?>
+  <?php //include($_SERVER['DOCUMENT_ROOT'].'/inc/footer.php') ?>
 
 </html>

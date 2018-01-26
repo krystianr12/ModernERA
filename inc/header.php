@@ -1,54 +1,5 @@
 <head>
-  <?php $exp=explode("/",$_SERVER['REQUEST_URI']);
-       $Checkdata=$exp[count($exp)-2];
-
-if($_SERVER['REQUEST_URI']=="/web-hosting/" ){ ?>
-<title>Web Hosting Services Near Me | Godaddy Hosting Services </title>
-<meta name="keywords" itemprop="description" content="web hosting services near me,
-godaddy hosting services">
-<meta name="description" content="Unlimited Data Transfer with Free Emails. Best hosting services and 24x7 support
-Services: Linux Hosting, Windows Hosting, Virtual Private Server, Dedicated Hosting">
-
-
-<?php  }elseif($_SERVER['REQUEST_URI']=="/seo/" ){ ?>
-<title>SEO Services Near Me</title>
-<meta name="description" content="Highly Experienced SEO Team. Improve Organic Ranking & Drive Results Contact Us.">
-
-
-<?php  }elseif($_SERVER['REQUEST_URI']=="/social-media-marketing/" ){ ?>
-<title>Advertisement Services Florida | Facebook Ads</title>
-<meta name="description" content="We connect Your businesses with all the right people on any device with Facebook marketing and on all social media sites.">
-
-
-<?php  }elseif($_SERVER['REQUEST_URI']=="/logos/" ){ ?>
-<title>Logo Design Services Near Me | Logo Creator | Logo Design</title>
-<meta name="description" content="">
-
-
-<?php  }elseif($_SERVER['REQUEST_URI']=="/web-design/" ){ ?>
-<title>Web Design in Gainesville Near Me | Website Builder Ocala</title>
-<meta name="description" content="">
-
-
-<?php  }elseif($_SERVER['REQUEST_URI']=="/photo-and-video/" ){ ?>
-<title>Wedding Videographer | Wedding Videography Near Me | Video Editor | Photo Editor</title>
-<meta name="description" content="">
-
-
-<?php  }elseif($_SERVER['REQUEST_URI']=="/brochures/" ){ ?>
-<title>T-Shirt Design Near Me | Tshirt Design</title>
-<meta name="description" content="">
-
-
-
-
-
-<?php } else { ?>
-
-
- <title>Flyers in florida | Gainesville Web Design | Graphic Design Ocala</title>
-
-  <?php }  ?>
+  <title><?php echo $page_title; ?></title>
   <meta charset="utf-8">
   <meta http-equiv="x-ua-compatible" content="ie=edge">
   <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
