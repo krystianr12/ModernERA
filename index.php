@@ -87,7 +87,7 @@
 
       <!-- DESKTOP STARTS -->
 
-      <div class="row dark hidden-xs">
+      <div class="row hidden-xs">
         <div class="col-sm-4 image wow fadein" data-wow-duration="2s" style="background-image: url(/assets/images/services/bg-hosting.jpg);"></div>
         <div class="col-sm-8 hidden-xs content wow fadeInRight" data-wow-duration="1.5s">
           <h2 class="pad50">Web Hosting</h2>
@@ -103,7 +103,7 @@
         </div>
         <div class="col-sm-4 image wow fadeIn" data-wow-duration="2s" style="background-image: url(/assets/images/services/bg-web-design.jpg);"></div>
       </div>
-      <div class="row dark hidden-xs">
+      <div class="row hidden-xs">
         <div class="col-sm-4 image wow fadeIn" data-wow-duration="2s" style="background-image: url(/assets/images/services/bg-marketing.jpg);"></div>
         <div class="col-sm-8 content wow fadeInRight" data-wow-duration="1.5s">
           <h2 class="pad50">Marketing & SEO</h2>
