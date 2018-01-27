@@ -3,8 +3,8 @@
 
   <?php
 
-    $page_title = "Digital Marketing Agency | ModernERA DMA";
-    $page_description = "From hosting your website to marketing your business, we're a one stop shop for all your marketing needs!";
+    $page_title = "Advertisement Services Florida | Facebook Ads";
+    $page_description = "We connect Your businesses with all the right people on any device with Facebook marketing and on all social media sites.";
     $page_keywords = "KEYWORDS HERE";
 
     include($_SERVER['DOCUMENT_ROOT'].'/inc/header.php');
