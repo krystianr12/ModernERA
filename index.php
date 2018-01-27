@@ -40,7 +40,7 @@
 
 
   <section id="services">
-    <div class="container-fluid">
+    <div class="container pad50">
       <div class="row hidden-lg hidden-md hidden-sm">
         <div class="service wow fadeIn" style="background-image: url(/assets/images/services/bg-hosting.jpg); position: relative;">
           <div class="overlay"></div>
