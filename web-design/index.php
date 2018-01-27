@@ -46,32 +46,32 @@
         <div class="col-lg-4">
           <i class="fa fa-mobile fa-5x wow jackInTheBox" data-wow-duration="1s"></i>
           <h4 class="pad15">Responsive Designs</h4>
-          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quamquam id quidem, infinitum est in hac urbe; Hoc non est positum in nostra actione.</p>
+          <p><strong>More than half</strong> of your audience will visit your website using their <strong>mobile devices</strong>. Our team will design your product with responsive design in mind.</p>
         </div>
         <div class="col-lg-4">
           <i class="fa fa-keyboard-o fa-5x wow jackInTheBox" data-wow-duration="1s" data-wow-delay="0.25s"></i>
           <h4 class="pad15">Quality Content</h4>
-          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quamquam id quidem, infinitum est in hac urbe; Hoc non est positum in nostra actione.</p>
+          <p>Presenting <strong>quality content</strong> to your audience is really <strong>important</strong> and makes your brand look <strong>professional</strong> and <strong>reputable</strong>.</p>
         </div>
         <div class="col-lg-4">
           <i class="fa fa-line-chart fa-5x wow jackInTheBox" data-wow-duration="1s" data-wow-delay="0.5s"></i>
           <h4 class="pad15">Basic SEO included</h4>
-          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quamquam id quidem, infinitum est in hac urbe; Hoc non est positum in nostra actione.</p>
+          <p>Having a <strong>search engine optimized</strong> website, help your target audience <strong>find you</strong> on the internet faster when they're looking for <strong>similar businesses</strong>.</p>
         </div>
         <div class="col-lg-4 pad-t50">
           <i class="fa fa-server fa-5x wow jackInTheBox" data-wow-duration="1s" data-wow-delay="0.75s"></i>
           <h4 class="pad15">Hosting</h4>
-          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quamquam id quidem, infinitum est in hac urbe; Hoc non est positum in nostra actione.</p>
+          <p>Having your website <strong>offline is no fun</strong>. That's why our team works very hard to make sure your website is up and running all day long, <strong>no questions asked.</strong> </p>
         </div>
         <div class="col-lg-4 pad-t50">
           <i class="fa fa-mouse-pointer fa-5x wow jackInTheBox" data-wow-duration="1s" data-wow-delay="1s"></i>
           <h4 class="pad15">Domain Registration</h4>
-          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quamquam id quidem, infinitum est in hac urbe; Hoc non est positum in nostra actione.</p>
+          <p><strong>Register all</strong> your domains <strong>directly from us</strong> for an affordable price. <strong>Your audience</strong> use the domain name to <strong>access your website</strong>. </p>
         </div>
         <div class="col-lg-4 pad-t50">
           <i class="fa fa-code fa-5x wow jackInTheBox" data-wow-duration="1s" data-wow-delay="1.25s"></i>
           <h4 class="pad15">Clean & Efficient Code</h4>
-          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quamquam id quidem, infinitum est in hac urbe; Hoc non est positum in nostra actione.</p>
+          <p>We focus on <strong>writing code</strong> that not only works, but its <strong>easy</strong> to <strong>understand</strong> and <strong>maintain</strong>. Your future developer will appreciate it. </p>
         </div>
       </div>
     </div>
