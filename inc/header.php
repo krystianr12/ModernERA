@@ -59,9 +59,8 @@
               <li><a href="https://www.facebook.com/Modern-Era-950781738409548/" target="_blank"><i class="fa fa-facebook"></i></a></li>
               <li><a href="#" target="_blank"><i class="fa fa-twitter"></i></a></li>
               <li><a href="#" target="_blank"><i class="fa fa-instagram"></i></a></li>
-              <li><a href="#" target="_blank"><i class="fa fa-rss"></i></a></li>
+              <li><a href="#"><span class="white visible-xs"><i class="fa fa-phone"></i> 352-505-8832</span></a></li>
             </ul>
-
           </div>
         </div>
         <div class="col-md-6 col-sm-6">
