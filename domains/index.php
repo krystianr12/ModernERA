@@ -4,8 +4,9 @@
   <?php
 
     $page_title = "Digital Marketing Agency | ModernERA DMA";
-    $page_description = "From hosting your website to marketing your business, we're a one stop shop for all your marketing needs!";
-    $page_keywords = "KEYWORDS HERE";
+    $page_description = "Unlimited Data Transfer with Free Emails. Best hosting services and 24x7 support
+    Services: Linux Hosting, Windows Hosting, Virtual Private Server, Dedicated Hosting";
+    $page_keywords = "web hosting services near me, godaddy hosting services";
 
     include($_SERVER['DOCUMENT_ROOT'].'/inc/header.php');
 
@@ -53,7 +54,7 @@
 
           <div class="col-lg-4 pad60 text-center">
             <p style="font-size: 22px;">Starting only at<br><br><span class="text-brand-color" style="font-size: 40px; font-weight: bold;">$12.99/year</span></p><br>
-            <a class="btn btn-primary" href="#">Order now</a>
+            <a class="btn btn-primary" href="https://billing.moderneradma.com/cart.php?a=add&domain=register">Order now</a>
           </div>
         </div>
       </div>
