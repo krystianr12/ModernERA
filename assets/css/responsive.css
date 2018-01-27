@@ -496,6 +496,10 @@
     text-align: center;
   }
 
+  #services > .container {
+    padding: 3px;
+  }
+
   .navbar-default .navbar-brand img {
     width: 220px;
     margin-top: 27px; }
