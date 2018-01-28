@@ -49,17 +49,17 @@
         <div class="col-lg-4">
           <i class="fa fa-line-chart fa-5x wow jackInTheBox" data-wow-duration="1s"></i>
           <h4 class="pad15">Real Results</h4>
-          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. An vero, inquit, quisquam potest probare, quod perceptfum, quod. Peccata paria. Frater et T. A primo, ut opinor, animantium ortu petitur origo summi boni.</p>
+          <p>A solid marketing strategy will make your business acquire a professional and solid online presence that will stand out from the competitors.</p>
         </div>
         <div class="col-lg-4">
           <i class="fa fa-map-marker fa-5x wow jackInTheBox" data-wow-duration="1s" data-wow-delay="0.25s"></i>
           <h4 class="pad15">Local SEO</h4>
-          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. An vero, inquit, quisquam potest probare, quod perceptfum, quod. Peccata paria. Frater et T. A primo, ut opinor, animantium ortu petitur origo summi boni.</p>
+          <p>Targeting your local area is a PLUS. We'll make it easier for your local audience to find you on the internet and increase conversion.</p>
         </div>
         <div class="col-lg-4">
           <i class="fa fa-group fa-5x wow jackInTheBox" data-wow-duration="1s" data-wow-delay="0.5s"></i>
           <h4 class="pad15">Organic Traffic</h4>
-          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. An vero, inquit, quisquam potest probare, quod perceptfum, quod. Peccata paria. Frater et T. A primo, ut opinor, animantium ortu petitur origo summi boni.</p>
+          <p>Paying for traffic is okay. But a great marketing strategy will deliver organic traffic, that builds a solid base that will be harder to fade away. </p>
         </div>
       </div>
     </div>
