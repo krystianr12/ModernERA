@@ -659,7 +659,7 @@ blockquote {
     -webkit-transition: all 0.2s ease-in-out;
     -o-transition: all 0.2s ease-in-out; }
     .navbar.navbar-default .navbar-brand {
-      margin-top: 10px; }
+      margin-top: 0px; }
     .navbar.navbar-default .navbar-collapse {
       padding-left: 0;
       padding-right: 0; }
