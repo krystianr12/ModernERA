@@ -85,7 +85,7 @@
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
           </button>
-          <a class="navbar-brand" href="../"><img alt="" src="/assets/images/logo/logo-black.png" width="340px" height="auto"></a>
+          <a class="navbar-brand" href="../"><img alt="" src="/assets/images/logo/logo.png" width="330px" height="auto"></a>
         </div>
 
         <div class="navbar-collapse collapse">
