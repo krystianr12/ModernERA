@@ -115,7 +115,7 @@
         <div class="col-sm-8 content wow fadeInLeft" data-wow-duration="1.5s">
           <h2 class="pad50">Videography & Photography</h2>
           <p>Whether you need video coverage for a wedding, birthday party, special event, etc. we've got your back. Our team of videographers and photographers can assist you in that special day to make sure they capture those moments you want to remember forever. Contact us via email or give us a call and we'll discuss your project.</p>
-          <br><a class="btn btn-primary" href="http://www.alivebykatie.com/">Learn more</a>
+          <br><a class="btn btn-primary" href="/photo-and-video/">Learn more</a>
         </div>
         <div class="col-sm-4 image wow fadeIn" data-wow-duration="2s" style="background-image: url(/assets/images/services/bg-videography.jpg);"></div>
       </div>
