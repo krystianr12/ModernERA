@@ -18,7 +18,7 @@
       <div class="wrapper">
         <h1 class="white header-shadow-dark">A <span class="text-brand-color">ONE-STOP SHOP</span> FOR ALL YOUR MARKETING NEEDS</h1><br>
         <p class="white">We want you to reach true potential for your ideas. We will take you through every step of the marketing process. We'll take care your logo, your website and social media accounts. Every customer is unique and special, and we understand that. That's why we will carefully design and prepare a marketing strategy that will work best for your business.</p><br>
-        <a class="btn btn-primary" href="#pricing">Learn more</a>
+        <!-- <a class="btn btn-primary" href="#pricing">Learn more</a> -->
       </div>
     </div>
 
