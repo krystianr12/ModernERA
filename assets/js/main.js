@@ -254,6 +254,15 @@
            }
         );
 
+        // Important feature Tooltip
+        $('[data-toggle="basic-seo"]').hover(
+           function(){
+            $(this).parents('.package-box').find('.basic-seo').css("visibility", "visible");
+           }, function(){
+            $(this).parents('.package-box').find('.basic-seo').css("visibility", "hidden");
+           }
+        );
+
         $('[data-toggle="tooltip"]').tooltip();
 
         //video background

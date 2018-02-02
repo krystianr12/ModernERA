@@ -502,7 +502,12 @@
 
   .important-features {
     transform: scale(0.8);
-    top: 90px;
+    top: 35px;
+  }
+
+  .basic-seo {
+    transform: scale(0.8);
+    top: 180px;
   }
 
   #featured-package {
