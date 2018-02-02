@@ -76,19 +76,6 @@
               </ul>
             </div>
             <div class="package-footer"><a href="">Buy now</a></div>
-
-            <div class="important-features" style="visibility: hidden;">
-              <h4>Important Features</h4>
-              <ul style="">
-                <li><i class="fa fa-check-circle" style="color: green;"></i> cPanel & Softaculous</li>
-                <li><i class="fa fa-check-circle" style="color: green;"></i> Multiple PHP Versions</li>
-                <li><i class="fa fa-check-circle" style="color: green;"></i> Free Website Transfer</li>
-                <li><i class="fa fa-check-circle" style="color: green;"></i> 99.9% Up-time</li>
-                <li><i class="fa fa-check-circle" style="color: green;"></i> Free Let's Encrypt SSL Certificate</li>
-                <li><i class="fa fa-check-circle" style="color: green;"></i> Free Hosting Security</li>
-                <li><i class="fa fa-check-circle" style="color: green;"></i> 24/7 Support</li>
-              </ul>
-            </div>
           </div>
         </div>
 
@@ -111,19 +98,6 @@
               </ul>
             </div>
             <div class="package-footer"><a href="">Buy now</a></div>
-
-            <div class="important-features" style="visibility: hidden;">
-              <h4>Important Features</h4>
-              <ul style="">
-                <li><i class="fa fa-check-circle" style="color: green;"></i> cPanel & Softaculous</li>
-                <li><i class="fa fa-check-circle" style="color: green;"></i> Multiple PHP Versions</li>
-                <li><i class="fa fa-check-circle" style="color: green;"></i> Free Website Transfer</li>
-                <li><i class="fa fa-check-circle" style="color: green;"></i> 99.9% Up-time</li>
-                <li><i class="fa fa-check-circle" style="color: green;"></i> Free Let's Encrypt SSL Certificate</li>
-                <li><i class="fa fa-check-circle" style="color: green;"></i> Free Hosting Security</li>
-                <li><i class="fa fa-check-circle" style="color: green;"></i> 24/7 Support</li>
-              </ul>
-            </div>
           </div>
         </div>
 
@@ -146,19 +120,6 @@
               </ul>
             </div>
             <div class="package-footer"><a href="">Buy now</a></div>
-
-            <div class="important-features" style="visibility: hidden;">
-              <h4>Important Features</h4>
-              <ul style="">
-                <li><i class="fa fa-check-circle" style="color: green;"></i> cPanel & Softaculous</li>
-                <li><i class="fa fa-check-circle" style="color: green;"></i> Multiple PHP Versions</li>
-                <li><i class="fa fa-check-circle" style="color: green;"></i> Free Website Transfer</li>
-                <li><i class="fa fa-check-circle" style="color: green;"></i> 99.9% Up-time</li>
-                <li><i class="fa fa-check-circle" style="color: green;"></i> Free Let's Encrypt SSL Certificate</li>
-                <li><i class="fa fa-check-circle" style="color: green;"></i> Free Hosting Security</li>
-                <li><i class="fa fa-check-circle" style="color: green;"></i> 24/7 Support</li>
-              </ul>
-            </div>
           </div>
         </div>
       </div>
