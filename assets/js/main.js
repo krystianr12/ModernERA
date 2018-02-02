@@ -245,8 +245,16 @@
             navigationText: ['<i class="fa fa-chevron-left"></i>', '<i class="fa fa-chevron-right"></i>']
         });
 
-        //Tooltip
-        $('[data-toggle="tooltip"]').tooltip()
+        // Important feature Tooltip
+        $('[data-toggle="important-features"]').hover(
+           function(){
+            $(this).parents('.package-box').find('.important-features').css("visibility", "visible");
+           }, function(){
+            $(this).parents('.package-box').find('.important-features').css("visibility", "hidden");
+           }
+        );
+
+        $('[data-toggle="tooltip"]').tooltip();
 
         //video background
         try {
