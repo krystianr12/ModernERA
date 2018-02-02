@@ -52,87 +52,74 @@
     </div>
   </section>
 
-  <!-- Start Pricing Box Section -->
-  <section class="pad-t80 pad-b50">
+  <section>
     <div class="container">
       <div class="row">
-        <div class="col-md-12">
-          <div class="section-title text-center">
-            <h3>Pricing</h3>
-          </div>
-        </div>
-      </div>
-      <div class="row">
-        <div class="col-md-4">
-          <div class="pricing-box wow fadeInUp" data-wow-duration="1s">
-            <div class="pricing-head white" style="background: #222;">
-              <span>Starting at</span>
-              <h4>$199.99</h4>
-              <h5>Single Sided Flyer</h5>
-            </div>
-            <div class="pricing-body">
-              <ul>
-                <li>Basic Feature <i class="fa fa-question-circle" data-toggle="tooltip" data-placement="left" title="" data-original-title="Something more about this"></i></li>
-                <li>One User <i class="fa fa-question-circle" data-toggle="tooltip" data-placement="left" title="" data-original-title="Something more about this"></i></li>
-                <li>10 Records <i class="fa fa-question-circle" data-toggle="tooltip" data-placement="left" title="" data-original-title="Something more about this"></i></li>
-                <li>Basic Feature</li>
-                <li>One User</li>
-                <li>More Records</li>
+        <div class="col-sm-4">
+          <div class="package-box">
+            <div class="package-header">Single Sided Flyer</div>
+            <div class="package-body">
+              <div class="wrapper">
+                <p>Starting at only</p>
+                <strong id="price">$199.99</strong>
+                <p class="text-muted">Was: $229.99</p>
+                <a class="btn btn-primary" href="https://billing.moderneradma.com/cart.php?a=add&pid=1">Sign Up</a>
+              </div>
+              <ul class="package-features">
+                <li><strong>Up to</strong> 3 Colors</li>
+                <li><strong>Up to</strong> 3 Logo Concepts</li>
+                <li><strong>Up to</strong> 1 Revision</li>
+                <li><strong>Up to</strong> 3 Elements</li>
               </ul>
             </div>
-            <div class="pricing-footer">
-              <a href="#">Buy Now</a>
-            </div>
+            <div class="package-footer"><a href="">Buy now</a></div>
           </div>
         </div>
-        <div class="col-md-4">
-          <div class="pricing-box wow fadeInUp" data-wow-duration="1s" data-wow-delay="1s">
-            <div class="pricing-head white" style="background: #222;">
-              <span class="previous-price">$289.99</span>
-              <h4>$89.99</h4>
-              <h5>Presentation Folder</h5>
-            </div>
-            <div class="pricing-body">
-              <ul>
-                <li>Basic Feature <i class="fa fa-question-circle" data-toggle="tooltip" data-placement="left" title="" data-original-title="Something more about this"></i></li>
-                <li>One User <i class="fa fa-question-circle" data-toggle="tooltip" data-placement="left" title="" data-original-title="Something more about this"></i></li>
-                <li>10 Records <i class="fa fa-question-circle" data-toggle="tooltip" data-placement="left" title="" data-original-title="Something more about this"></i></li>
-                <li>Basic Feature</li>
-                <li>One User</li>
-                <li>More Records</li>
+
+        <div class="col-sm-4">
+          <div class="package-box" id="featured-package">
+            <div class="package-header">Presentation Folder</div>
+            <div class="package-body">
+              <div class="wrapper">
+                <p>Starting only at</p>
+                <strong id="price">$89.99</strong>
+                <p class="text-muted">Was: $129.99</p>
+                <a class="btn btn-primary" href="https://billing.moderneradma.com/cart.php?a=add&pid=1">Sign Up</a>
+              </div>
+              <ul class="package-features">
+                <li><strong>Up to</strong> 3 Colors</li>
+                <li><strong>Up to</strong> 10 Logo Concepts</li>
+                <li><strong>Up to</strong> 4 Revisions</li>
+                <li><strong>Unlimited</strong> Elements</li>
               </ul>
             </div>
-            <div class="pricing-footer">
-              <a href="#">Buy Now</a>
-            </div>
+            <div class="package-footer"><a href="">Buy now</a></div>
           </div>
         </div>
-        <div class="col-md-4">
-          <div class="pricing-box wow fadeInUp" data-wow-duration="1s" data-wow-delay=".5s">
-            <div class="pricing-head white" style="background: #222;">
-              <span class="previous-price">$399.99</span>
-              <h4>$349.99</h4>
-              <h5>Tri-Fold</h5>
-            </div>
-            <div class="pricing-body">
-              <ul>
-                <li>Basic Feature <i class="fa fa-question-circle" data-toggle="tooltip" data-placement="left" title="" data-original-title="Something more about this"></i></li>
-                <li>One User <i class="fa fa-question-circle" data-toggle="tooltip" data-placement="left" title="" data-original-title="Something more about this"></i></li>
-                <li>10 Records <i class="fa fa-question-circle" data-toggle="tooltip" data-placement="left" title="" data-original-title="Something more about this"></i></li>
-                <li>Basic Feature</li>
-                <li>One User</li>
-                <li>More Records</li>
+
+        <div class="col-sm-4">
+          <div class="package-box">
+            <div class="package-header">TRI-FOLD</div>
+            <div class="package-body">
+              <div class="wrapper">
+                <p>For only</p>
+                <strong id="price">$349.99</strong>
+                <p class="text-muted">Was: $399.99</p>
+                <a class="btn btn-primary" href="https://billing.moderneradma.com/cart.php?a=add&pid=1">Sign Up</a>
+              </div>
+              <ul class="package-features">
+                <li><strong>Unlimited</strong> Colors</li>
+                <li><strong>Up to</strong> 15 Logo Concepts</li>
+                <li><strong>Up to</strong> 5 Revisions</li>
+                <li><strong>Unlimited</strong> Elements</li>
               </ul>
             </div>
-            <div class="pricing-footer">
-              <a href="#">Buy Now</a>
-            </div>
+            <div class="package-footer"><a href="">Buy now</a></div>
           </div>
         </div>
       </div>
     </div>
   </section>
-  <!-- End Pricing Section -->
 
   <?php include($_SERVER['DOCUMENT_ROOT'].'/inc/footer.php') ?>
 
