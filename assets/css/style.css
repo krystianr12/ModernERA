@@ -2448,6 +2448,8 @@ ul.logo-group {
     width: 33%; }
 
 
+.package-box i[data-toggle="important-features"]:hover,
+.package-box i[data-toggle="basic-seo"]:hover { cursor: pointer; }
 
 .important-features {
   background: #fff;
@@ -2466,6 +2468,21 @@ ul.logo-group {
   .important-features ul {
     padding-top: 10px;
   }
+
+.basic-seo {
+  background: #fff;
+  border: 1px #aaa solid;
+  box-shadow: 0 2px 3px rgba(0, 0, 0, 0.15);
+  cursor: pointer;
+  padding: 20px;
+  position: absolute;
+  top: 170px;
+  right: 0;
+  left: 0;
+  margin: 0 auto;
+  width: 300px;  }
+  .important-features h4 {
+    border-bottom: 1px #aaa solid;  }
 
 
 #featured-package {

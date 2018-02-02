@@ -117,6 +117,141 @@
     </div>
   </section>
 
+  <section>
+    <div class="container">
+      <div class="row">
+        <div class="col-sm-4">
+          <div class="package-box">
+            <div class="package-header">Starter</div>
+            <div class="package-body">
+              <div class="wrapper">
+                <p>Starting at only</p>
+                <strong id="price">$1,499.99</strong>
+                <p class="text-muted">Was: $1,745.00</p>
+                <a class="btn btn-primary" href="https://billing.moderneradma.com/cart.php?a=add&pid=1">Sign Up</a>
+              </div>
+              <ul class="package-features">
+                <li>All important features <i class="fa fa-question-circle" data-toggle="important-features"></i></li>
+                <li>Initial Design Brief</li>
+                <li><strong>Basic</strong> SEO <i class="fa fa-question-circle" data-toggle="basic-seo"></i></li>
+                <li><strong>Up to</strong> 5 Pages</li>
+                <li><strong>Responsive Design</strong></li>
+                <li><strong>Email Contact Form</strong></li>
+                <li><strong>Gallery</strong></li>
+              </ul>
+            </div>
+            <div class="package-footer"><a href="">Buy now</a></div>
+
+            <div class="important-features" style="visibility: hidden;">
+              <h4>Important Features</h4>
+              <ul>
+                <li><i class="fa fa-check-circle" style="color: green;"></i> Custom and Unique Design</li>
+                <li><i class="fa fa-check-circle" style="color: green;"></i> Image compression</li>
+                <li><i class="fa fa-check-circle" style="color: green;"></i> Basic Content Writing</li>
+                <li><i class="fa fa-check-circle" style="color: green;"></i> Clean and Efficient Code</li>
+                <li><i class="fa fa-check-circle" style="color: green;"></i> Custom Color Palette</li>
+                <li><i class="fa fa-check-circle" style="color: green;"></i> Progress Reports and Updates</li>
+                <li><i class="fa fa-check-circle" style="color: green;"></i> Github Repository</li>
+              </ul>
+            </div>
+
+            <div class="basic-seo" style="visibility: hidden;">
+              <h4>Basic SEO <i class="fa fa-check-circle" style="color: green;"></i></h4><br>
+              <p>SEO will help your website earn better ranking on most popular search engines.</p>
+            </div>
+
+          </div>
+        </div>
+
+        <div class="col-sm-4">
+          <div class="package-box" id="featured-package">
+            <div class="package-header">Premium</div>
+            <div class="package-body">
+              <div class="wrapper">
+                <p>Starting at only</p>
+                <strong id="price">$1,749.99</strong>
+                <p class="text-muted">Was: $2,199.99</p>
+                <a class="btn btn-primary" href="https://billing.moderneradma.com/cart.php?a=add&pid=1">Sign Up</a>
+              </div>
+              <ul class="package-features">
+                <li>All important features <i class="fa fa-question-circle" data-toggle="important-features"></i></li>
+                <li>Initial Design Brief</li>
+                <li><strong>Basic</strong> SEO <i class="fa fa-question-circle" data-toggle="basic-seo"></i></li>
+                <li><strong>Up to</strong> 10 Pages</li>
+                <li><strong>Responsive Design</strong></li>
+                <li><strong>Email Contact Form</strong></li>
+                <li><strong>Custom Features</strong></li>
+              </ul>
+            </div>
+            <div class="package-footer"><a href="">Buy now</a></div>
+
+            <div class="important-features" style="visibility: hidden;">
+              <h4>Important Features</h4>
+              <ul>
+                <li><i class="fa fa-check-circle" style="color: green;"></i> Custom and Unique Design</li>
+                <li><i class="fa fa-check-circle" style="color: green;"></i> Image compression</li>
+                <li><i class="fa fa-check-circle" style="color: green;"></i> Basic Content Writing</li>
+                <li><i class="fa fa-check-circle" style="color: green;"></i> Clean and Efficient Code</li>
+                <li><i class="fa fa-check-circle" style="color: green;"></i> Custom Color Palette</li>
+                <li><i class="fa fa-check-circle" style="color: green;"></i> Progress Reports and Updates</li>
+                <li><i class="fa fa-check-circle" style="color: green;"></i> Github Repository</li>
+              </ul>
+            </div>
+
+            <div class="basic-seo" style="visibility: hidden;">
+              <h4>Basic SEO <i class="fa fa-check-circle" style="color: green;"></i></h4><br>
+              <p>SEO will help your website earn better ranking on most popular search engines.</p>
+            </div>
+
+          </div>
+        </div>
+
+        <div class="col-sm-4">
+          <div class="package-box">
+            <div class="package-header">Business</div>
+            <div class="package-body">
+              <div class="wrapper">
+                <p>Starting at only</p>
+                <strong id="price">$2,989.99</strong>
+                <p class="text-muted">Was: $3,499.99</p>
+                <a class="btn btn-primary" href="https://billing.moderneradma.com/cart.php?a=add&pid=1">Sign Up</a>
+              </div>
+              <ul class="package-features">
+                <li>All important features <i class="fa fa-question-circle" data-toggle="important-features"></i></li>
+                <li>Initial Design Brief</li>
+                <li><strong>Basic</strong> SEO <i class="fa fa-question-circle" data-toggle="basic-seo"></i>  </li>
+                <li><strong>Unlimited</strong> Pages</li>
+                <li><strong>Responsive Design</strong></li>
+                <li><strong>Email Contact Form</strong></li>
+                <li><strong>Optional</strong> Website built with CMS</li>
+              </ul>
+            </div>
+            <div class="package-footer"><a href="">Buy now</a></div>
+
+            <div class="important-features" style="visibility: hidden;">
+              <h4>Important Features</h4>
+              <ul style="">
+                <li><i class="fa fa-check-circle" style="color: green;"></i> Custom and Unique Design</li>
+                <li><i class="fa fa-check-circle" style="color: green;"></i> Image compression</li>
+                <li><i class="fa fa-check-circle" style="color: green;"></i> Basic Content Writing</li>
+                <li><i class="fa fa-check-circle" style="color: green;"></i> Clean and Efficient Code</li>
+                <li><i class="fa fa-check-circle" style="color: green;"></i> Custom Color Palette</li>
+                <li><i class="fa fa-check-circle" style="color: green;"></i> Progress Reports and Updates</li>
+                <li><i class="fa fa-check-circle" style="color: green;"></i> Github Repository</li>
+              </ul>
+            </div>
+
+            <div class="basic-seo" style="visibility: hidden;">
+              <h4>Basic SEO <i class="fa fa-check-circle" style="color: green;"></i></h4><br>
+              <p>SEO will help your website earn better ranking on most popular search engines.</p>
+            </div>
+            
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
   <!-- Start Pricing Box Section -->
   <section class="pad-t80 pad-b50" id="pricing">
     <div class="container">
