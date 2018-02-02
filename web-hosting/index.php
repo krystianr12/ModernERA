@@ -68,93 +68,128 @@
     </div>
   </section>
 
-  <!-- Start Pricing Box Section -->
-  <section class="pad-t80 pad-b50" id="pricing">
+  <section>
     <div class="container">
       <div class="row">
-        <div class="col-md-12">
-          <div class="section-title text-center">
-            <h3>Pricing</h3>
-          </div>
-        </div>
-      </div>
-      <div class="row">
-        <div class="col-md-4">
-          <div class="pricing-box wow fadeInUp" data-wow-duration="1s">
-            <div class="pricing-head white" style="background: #222;">
-              <h4>Starter</h5>
-              <h4>$3.99</h4>
-              <p>Monthly</p>
-            </div>
-            <div class="pricing-body">
-              <ul>
-                <li>1 Website</li>
-                <li>1 Free Domain</li>
-                <li>5GB SSD Storage</li>
-                <li>20GB Bandwidth</li>
-                <li>Free SSL</li>
-                <li>1 FTP Accounts</li>
-                <li>1 Email Accounts</li>
-                <li>1 Database</li>
+        <div class="col-sm-4">
+          <div class="package-box">
+            <div class="package-header">Starter</div>
+            <div class="package-body">
+              <div class="wrapper">
+                <p>Starting at only</p>
+                <strong id="price">$3.99</strong>/mo
+                <p class="text-muted">Renewal Price: $3.99/mo</p>
+                <p class="description">For small and startup websites, all you need to begin your journey.</p>
+                <a class="btn btn-primary" href="https://billing.moderneradma.com/cart.php?a=add&pid=1">Sign Up</a>
+              </div>
+              <ul class="package-features">
+                <li>All important features <i class="fa fa-question-circle" data-toggle="important-features"></i></li>
+                <li><strong>Free</strong> domain forever</li>
+                <li><strong>Up to</strong> 1 website per account</li>
+                <li><strong>Up to</strong> 5GB of SSD Storage</li>
+                <li><strong>Up to</strong> 20GB Bandwidth</li>
+                <li><strong>Unlimited</strong> FTP Accounts</li>
+                <li><strong>Unlimited</strong> Email Accounts</li>
+                <li><strong>Up to</strong> 1 Database</li>
               </ul>
             </div>
-            <div class="pricing-footer">
-              <a href="http://billing.moderneradma.com/cart.php?a=add&pid=1">Buy Now</a>
+            <div class="package-footer"><a href="">Buy now</a></div>
+
+            <div class="important-features" style="visibility: hidden;">
+              <h4>Important Features</h4>
+              <ul style="">
+                <li><i class="fa fa-check-circle" style="color: green;"></i> cPanel & Softaculous</li>
+                <li><i class="fa fa-check-circle" style="color: green;"></i> Multiple PHP Versions</li>
+                <li><i class="fa fa-check-circle" style="color: green;"></i> Free Website Transfer</li>
+                <li><i class="fa fa-check-circle" style="color: green;"></i> 99.9% Up-time</li>
+                <li><i class="fa fa-check-circle" style="color: green;"></i> Free Let's Encrypt SSL Certificate</li>
+                <li><i class="fa fa-check-circle" style="color: green;"></i> Free Hosting Security</li>
+                <li><i class="fa fa-check-circle" style="color: green;"></i> 24/7 Support</li>
+              </ul>
             </div>
           </div>
         </div>
-          <div class="col-md-4">
-            <div class="pricing-box wow fadeInUp" data-wow-duration="1s" data-wow-delay=".5s">
-              <div class="pricing-head white" style="background: #222;">
-                <h4>Premium</h5>
-                <h4>$10.99</h4>
-                <p>Monthly</p>
+
+        <div class="col-sm-4">
+          <div class="package-box" id="featured-package">
+            <div class="package-header">Premium</div>
+            <div class="package-body">
+              <div class="wrapper">
+                <p>Starting at only</p>
+                <strong id="price">$10.99</strong>/mo
+                <p class="text-muted">Renewal Price: $10.99/mo</p>
+                <p class="description">Extra speed and storage for those who need extra power, in a budget.</p>
+                <a class="btn btn-primary" href="https://billing.moderneradma.com/cart.php?a=add&pid=1">Sign Up</a>
               </div>
-              <div class="pricing-body">
-                <ul>
-                  <li>2 Websites</li>
-                  <li>2 Free Domains</li>
-                  <li>10GB SSD Storage</li>
-                  <li>30GB Bandwidth</li>
-                  <li>Free SSL</li>
-                  <li>Unlimited FTP Accounts</li>
-                  <li>Unlimited Email Accounts</li>
-                  <li>3 Databases</li>
-                </ul>
-              </div>
-              <div class="pricing-footer">
-                <a href="http://billing.moderneradma.com/cart.php?a=add&pid=2">Buy Now</a>
-              </div>
-            </div>
-          </div>
-        <div class="col-md-4">
-          <div class="pricing-box wow fadeInUp" data-wow-duration="1s" data-wow-delay="1s">
-            <div class="pricing-head white" style="background: #222;">
-              <h4>Business</h5>
-              <h4>$17.99</h4>
-              <p>Monthly</p>
-            </div>
-            <div class="pricing-body">
-              <ul>
-                <li>Unlimited Websites</li>
-                <li>Unlimited Domains</li>
-                <li>Unlimited SSD Storage</li>
-                <li>Unlimited Bandwidth</li>
-                <li>Free SSL</li>
-                <li>Unlimited FTP Accounts</li>
-                <li>Unlimited Email Accounts</li>
-                <li>Unlimited Databases</li>
+              <ul class="package-features">
+                <li>All important features <i class="fa fa-question-circle" data-toggle="important-features"></i></li>
+                <li><strong>Up to</strong> 2 free domains forever</li>
+                <li><strong>Up to</strong> 2 websites per account</li>
+                <li><strong>Up to</strong> 10GB of SSD Storage</li>
+                <li><strong>Up to</strong> 30GB Bandwidth</li>
+                <li><strong>Unlimited</strong> FTP Accounts</li>
+                <li><strong>Unlimited</strong> Email Accounts</li>
+                <li><strong>Up to</strong> 3 Databases</li>
               </ul>
             </div>
-            <div class="pricing-footer">
-              <a href="http://billing.moderneradma.com/cart.php?a=add&pid=4">Buy Now</a>
+            <div class="package-footer"><a href="">Buy now</a></div>
+
+            <div class="important-features" style="visibility: hidden;">
+              <h4>Important Features</h4>
+              <ul style="">
+                <li><i class="fa fa-check-circle" style="color: green;"></i> cPanel & Softaculous</li>
+                <li><i class="fa fa-check-circle" style="color: green;"></i> Multiple PHP Versions</li>
+                <li><i class="fa fa-check-circle" style="color: green;"></i> Free Website Transfer</li>
+                <li><i class="fa fa-check-circle" style="color: green;"></i> 99.9% Up-time</li>
+                <li><i class="fa fa-check-circle" style="color: green;"></i> Free Let's Encrypt SSL Certificate</li>
+                <li><i class="fa fa-check-circle" style="color: green;"></i> Free Hosting Security</li>
+                <li><i class="fa fa-check-circle" style="color: green;"></i> 24/7 Support</li>
+              </ul>
+            </div>
+          </div>
+        </div>
+
+        <div class="col-sm-4">
+          <div class="package-box">
+            <div class="package-header">Business</div>
+            <div class="package-body">
+              <div class="wrapper">
+                <p>Starting at only</p>
+                <strong id="price">$17.99</strong>/mo
+                <p class="text-muted">Renewal Price: $17.99/mo</p>
+                <p class="description">Ideal for big websites that require a lot of extra space and performance.</p>
+                <a class="btn btn-primary" href="https://billing.moderneradma.com/cart.php?a=add&pid=1">Sign Up</a>
+              </div>
+              <ul class="package-features">
+                <li>All important features <i class="fa fa-question-circle" data-toggle="important-features"></i></li>
+                <li><strong>Unlimited</strong> Websites</li>
+                <li><strong>Unlimited</strong> Domains</li>
+                <li><strong>Unlimited</strong> SSD Storage</li>
+                <li><strong>Unlimited</strong> Bandwidth</li>
+                <li><strong>Unlimited</strong> FTP Accounts</li>
+                <li><strong>Unlimited</strong> Email Accounts</li>
+                <li><strong>Unlimited</strong> Databases</li>
+              </ul>
+            </div>
+            <div class="package-footer"><a href="">Buy now</a></div>
+
+            <div class="important-features" style="visibility: hidden;">
+              <h4>Important Features</h4>
+              <ul style="">
+                <li><i class="fa fa-check-circle" style="color: green;"></i> cPanel & Softaculous</li>
+                <li><i class="fa fa-check-circle" style="color: green;"></i> Multiple PHP Versions</li>
+                <li><i class="fa fa-check-circle" style="color: green;"></i> Free Website Transfer</li>
+                <li><i class="fa fa-check-circle" style="color: green;"></i> 99.9% Up-time</li>
+                <li><i class="fa fa-check-circle" style="color: green;"></i> Free Let's Encrypt SSL Certificate</li>
+                <li><i class="fa fa-check-circle" style="color: green;"></i> Free Hosting Security</li>
+                <li><i class="fa fa-check-circle" style="color: green;"></i> 24/7 Support</li>
+              </ul>
             </div>
           </div>
         </div>
       </div>
     </div>
   </section>
-  <!-- End Pricing Section -->
 
   <?php include($_SERVER['DOCUMENT_ROOT'].'/inc/footer.php') ?>
 

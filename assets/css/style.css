@@ -239,8 +239,6 @@ hr {
     background: #ed1c24 !important;
     border-color: #ed1c24 !important; }
 
-.btn-
-
 .right-half, .left-half {
   position: absolute;
   right: 0;
@@ -2448,6 +2446,76 @@ ul.logo-group {
       margin: 0 auto; }
   ul.logo-group.width33 li {
     width: 33%; }
+
+
+
+.important-features {
+  background: #fff;
+  border: 1px #aaa solid;
+  box-shadow: 0 2px 3px rgba(0, 0, 0, 0.15);
+  padding: 20px;
+  position: absolute;
+  top: 50px;
+  right: 0;
+  left: 0;
+  margin: 0 auto;
+  width: 300px;
+}
+  .important-features h4 {
+    border-bottom: 1px #aaa solid;  }
+  .important-features ul {
+    padding-top: 10px;
+  }
+
+
+#featured-package {
+  transform: scale(1.1); }
+  #featured-package .package-header {
+    background: #ed1c24;  }
+
+.package-box {
+  position: relative;
+  margin: 100px 0;
+  overflow: hidden;
+  box-shadow: 0 2px 3px rgba(0, 0, 0, 0.15); }
+  .package-box .package-header {
+    color: white;
+    background-color: #333;
+    font-size: 2em;
+    font-weight: 600;
+    padding: 15px 0;
+    text-align: center;
+    text-transform: uppercase; }
+  .package-box .package-body .wrapper {
+    padding-top: 20px;
+    text-align: center;  }
+  .package-box .package-body .wrapper .description {
+    padding: 0 25px;  }
+  .package-box .package-body .wrapper p:first-child {
+    font-size: 1.2em;
+  }
+  .package-box .package-body .wrapper #price {
+    font-size: 4em; }
+  .package-box .package-body .wrapper a {
+    margin: 15px auto 25px auto;
+    width: 70%;
+  }
+  .package-box .package-features > li {
+    padding: 5px 25px;
+    border-top: 1px #ddd solid; }
+  .package-box .package-footer a {
+    display: block;
+    padding: 1em;
+    background: #f2f2f2;
+    color: #2b2c2d;
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    transition: all .4s ease-in-out;  }
+    .package-box .package-footer a:hover {
+      background: #ed1c24;
+      color: #fff; }
+
 
 .pricing-box {
   overflow: hidden;
