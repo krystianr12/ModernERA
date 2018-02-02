@@ -55,83 +55,115 @@
     </div>
   </section>
 
-      <!-- Start Pricing Box Section -->
-  <section class="pad-t80 pad-b50" id="pricing">
+  <section>
     <div class="container">
       <div class="row">
-        <div class="col-md-12">
-          <div class="section-title text-center">
-            <h3>Pricing</h3>
-          </div>
-        </div>
-      </div>
-      <div class="row">
-        <div class="col-md-4">
-          <div class="pricing-box wow fadeInUp" data-wow-duration="1s">
-            <div class="pricing-head white" style="background: #222;">
-              <h4>Express</h5>
-              <h4>$49.99</h4>
-              <span class="previous-price">$79.99</span>
-            </div>
-            <div class="pricing-body">
-              <ul>
-                <li>Our team of experts will design a customized logo for you within 24hrs</li>
-                <li>Over the phone design brief</li>
-                <li>Up to 3 logo concepts</li>
-                <li>Up to 1 revision</li>
+        <div class="col-sm-4">
+          <div class="package-box">
+            <div class="package-header">Express</div>
+            <div class="package-body">
+              <div class="wrapper">
+                <p>For only</p>
+                <strong id="price">$49.99</strong>
+                <p class="text-muted">Was: $79.99/mo</p>
+                <a class="btn btn-primary" href="https://billing.moderneradma.com/cart.php?a=add&pid=1">Sign Up</a>
+              </div>
+              <ul class="package-features">
+                <li>Delivery in 24-48 hours</li>
+                <li><strong>Up to</strong> 3 Colors</li>
+                <li><strong>Up to</strong> 3 Logo Concepts</li>
+                <li><strong>Up to</strong> 1 Revision</li>
               </ul>
             </div>
-            <div class="pricing-footer">
-              <a href="#">Buy Now</a>
-            </div>
-          </div>
-        </div>
-        <div class="col-md-4">
-          <div class="pricing-box wow fadeInUp" data-wow-duration="1s">
-            <div class="pricing-head white" style="background: #222;">
-              <h4>Starter</h5>
-              <h4>$199.99</h4>
-              <span class="previous-price">$299.99</span>
-            </div>
-            <div class="pricing-body">
-              <ul>
-                <li>Initial design brief</li>
-                <li>Up to 10 logo concepts</li>
-                <li>Up to 4 revisions</li>
-                <li>Up to 3 colors</li>
-                <li>Unlimited elements</li>
+            <div class="package-footer"><a href="">Buy now</a></div>
+
+            <div class="important-features" style="visibility: hidden;">
+              <h4>Important Features</h4>
+              <ul style="">
+                <li><i class="fa fa-check-circle" style="color: green;"></i> cPanel & Softaculous</li>
+                <li><i class="fa fa-check-circle" style="color: green;"></i> Multiple PHP Versions</li>
+                <li><i class="fa fa-check-circle" style="color: green;"></i> Free Website Transfer</li>
+                <li><i class="fa fa-check-circle" style="color: green;"></i> 99.9% Up-time</li>
+                <li><i class="fa fa-check-circle" style="color: green;"></i> Free Let's Encrypt SSL Certificate</li>
+                <li><i class="fa fa-check-circle" style="color: green;"></i> Free Hosting Security</li>
+                <li><i class="fa fa-check-circle" style="color: green;"></i> 24/7 Support</li>
               </ul>
-            </div>
-            <div class="pricing-footer">
-              <a href="#">Buy Now</a>
             </div>
           </div>
         </div>
-        <div class="col-md-4">
-          <div class="pricing-box wow fadeInUp" data-wow-duration="1s">
-            <div class="pricing-head white" style="background: #222;">
-                  <h4>Business</h5>
-                  <h4>$399.99</h4>
-                  <span class="previous-price">$499.99</span>
-            </div>
-            <div class="pricing-body">
-              <ul>
-                <li>Initial design brief</li>
-                <li>Up to 15 logo concepts</li>
-                <li>Up to 5 revisions</li>
-                <li>Unlimited colors</li>
-                <li>Unlimited elements</li>
+
+        <div class="col-sm-4">
+          <div class="package-box" id="featured-package">
+            <div class="package-header">Premium</div>
+            <div class="package-body">
+              <div class="wrapper">
+                <p>For only</p>
+                <strong id="price">$199.99</strong>
+                <p class="text-muted">Was: $299.99/mo</p>
+                <a class="btn btn-primary" href="https://billing.moderneradma.com/cart.php?a=add&pid=1">Sign Up</a>
+              </div>
+              <ul class="package-features">
+                <li>Initial Design Brief</li>
+                <li><strong>Up to</strong> 3 Colors</li>
+                <li><strong>Up to</strong> 10 Logo Concepts</li>
+                <li><strong>Up to</strong> 4 Revisions</li>
+                <li><strong>Unlimited</strong> Elements</li>
               </ul>
             </div>
-            <div class="pricing-footer">
-              <a href="#">Buy Now</a>
+            <div class="package-footer"><a href="">Buy now</a></div>
+
+            <div class="important-features" style="visibility: hidden;">
+              <h4>Important Features</h4>
+              <ul style="">
+                <li><i class="fa fa-check-circle" style="color: green;"></i> cPanel & Softaculous</li>
+                <li><i class="fa fa-check-circle" style="color: green;"></i> Multiple PHP Versions</li>
+                <li><i class="fa fa-check-circle" style="color: green;"></i> Free Website Transfer</li>
+                <li><i class="fa fa-check-circle" style="color: green;"></i> 99.9% Up-time</li>
+                <li><i class="fa fa-check-circle" style="color: green;"></i> Free Let's Encrypt SSL Certificate</li>
+                <li><i class="fa fa-check-circle" style="color: green;"></i> Free Hosting Security</li>
+                <li><i class="fa fa-check-circle" style="color: green;"></i> 24/7 Support</li>
+              </ul>
+            </div>
+          </div>
+        </div>
+
+        <div class="col-sm-4">
+          <div class="package-box">
+            <div class="package-header">Business</div>
+            <div class="package-body">
+              <div class="wrapper">
+                <p>For only</p>
+                <strong id="price">$399.99</strong>
+                <p class="text-muted">Was: $499.99/mo</p>
+                <a class="btn btn-primary" href="https://billing.moderneradma.com/cart.php?a=add&pid=1">Sign Up</a>
+              </div>
+              <ul class="package-features">
+                <li>Initial Design Brief</li>
+                <li><strong>Unlimited</strong> Colors</li>
+                <li><strong>Up to</strong> 15 Logo Concepts</li>
+                <li><strong>Up to</strong> 5 Revisions</li>
+                <li><strong>Unlimited</strong> Elements</li>
+              </ul>
+            </div>
+            <div class="package-footer"><a href="">Buy now</a></div>
+
+            <div class="important-features" style="visibility: hidden;">
+              <h4>Important Features</h4>
+              <ul style="">
+                <li><i class="fa fa-check-circle" style="color: green;"></i> cPanel & Softaculous</li>
+                <li><i class="fa fa-check-circle" style="color: green;"></i> Multiple PHP Versions</li>
+                <li><i class="fa fa-check-circle" style="color: green;"></i> Free Website Transfer</li>
+                <li><i class="fa fa-check-circle" style="color: green;"></i> 99.9% Up-time</li>
+                <li><i class="fa fa-check-circle" style="color: green;"></i> Free Let's Encrypt SSL Certificate</li>
+                <li><i class="fa fa-check-circle" style="color: green;"></i> Free Hosting Security</li>
+                <li><i class="fa fa-check-circle" style="color: green;"></i> 24/7 Support</li>
+              </ul>
             </div>
           </div>
         </div>
       </div>
     </div>
   </section>
-        <!-- End Pricing Section -->
 
   <?php include($_SERVER['DOCUMENT_ROOT'].'/inc/footer.php') ?>
 
