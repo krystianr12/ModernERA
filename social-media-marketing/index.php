@@ -52,87 +52,80 @@
     </div>
   </section>
 
-  <!-- Start Pricing Box Section -->
-  <section class="pad-t80 pad-b50" id="pricing">
+  <section>
     <div class="container">
       <div class="row">
-        <div class="col-md-12">
-          <div class="section-title text-center">
-            <h3>Pricing</h3>
-          </div>
-        </div>
-      </div>
-      <div class="row">
-        <div class="col-md-4">
-          <div class="pricing-box wow fadeInUp" data-wow-duration="1s">
-            <div class="pricing-head white" style="background: #222;">
-              <h4>Facebook</h5>
-              <h4>$199.99</h4>
-              <p>Monthly</p>
-            </div>
-            <div class="pricing-body">
-              <ul>
+        <div class="col-sm-4">
+          <div class="package-box">
+            <div class="package-header">Starter</div>
+            <div class="package-body">
+              <div class="wrapper">
+                <p>Starting at only</p>
+                <strong id="price">$199.99</strong>/mo
+                <p class="text-muted">Was: $249.99</p>
+                <a class="btn btn-primary" href="https://billing.moderneradma.com/cart.php?a=add&pid=1">Sign Up</a>
+              </div>
+              <ul class="package-features">
                 <li>Profile Page Setup</li>
                 <li>Custom Banner</li>
                 <li>Event creation</li>
-                <li>Up to 10 posts per month</li>
+                <li><strong>Up to</strong> 10 posts per month</li>
                 <li>Increase number of likes and shares</li>
                 <li>Increase number of friends</li>
                 <li><strong>Optional</strong> Facebook Ads Management</li>
               </ul>
             </div>
-            <div class="pricing-footer">
-              <a href="#">Buy Now</a>
-            </div>
+            <div class="package-footer"><a href="">Buy now</a></div>
           </div>
         </div>
-        <div class="col-md-4">
-          <div class="pricing-box wow fadeInUp" data-wow-duration="1s" data-wow-delay=".5s">
-            <div class="pricing-head white" style="background: #222;">
-              <h4>Instagram</h5>
-              <h4>$149.99</h4>
-              <p>Monthly</p>
-            </div>
-            <div class="pricing-body">
-              <ul>
+
+        <div class="col-sm-4">
+          <div class="package-box" id="featured-package">
+            <div class="package-header">Instagram</div>
+            <div class="package-body">
+              <div class="wrapper">
+                <p>Starting at only</p>
+                <strong id="price">$149.99</strong>/mo
+                <p class="text-muted">Was: $199.99</p>
+                <a class="btn btn-primary" href="https://billing.moderneradma.com/cart.php?a=add&pid=1">Sign Up</a>
+              </div>
+              <ul class="package-features">
                 <li>Profile Page Setup</li>
                 <li>Account Management</li>
-                <li>Up to 10 posts per month</li>
+                <li><strong>Up to</strong> 10 posts per month</li>
                 <li>Increase number of likes and shares</li>
                 <li>Increase number of followers</li>
                 <li><strong>Optional</strong> Instagram Ads Management</li>
               </ul>
             </div>
-            <div class="pricing-footer">
-              <a href="#">Buy Now</a>
-            </div>
+            <div class="package-footer"><a href="">Buy now</a></div>
           </div>
         </div>
-        <div class="col-md-4">
-          <div class="pricing-box wow fadeInUp" data-wow-duration="1s" data-wow-delay="1s">
-            <div class="pricing-head white" style="background: #222;">
-                <h4>Twitter</h5>
-                  <h4>$99.99</h4>
-                  <p>Monthly</p>
-            </div>
-            <div class="pricing-body">
-              <ul>
+
+        <div class="col-sm-4">
+          <div class="package-box">
+            <div class="package-header">Business</div>
+            <div class="package-body">
+              <div class="wrapper">
+                <p>Starting at only</p>
+                <strong id="price">$999.99</strong>/mo
+                <p class="text-muted">Was: $1,299.99/mo</p>
+                <a class="btn btn-primary" href="https://billing.moderneradma.com/cart.php?a=add&pid=1">Sign Up</a>
+              </div>
+              <ul class="package-features">
                 <li>Profile Page Setup</li>
                 <li>Account Management</li>
                 <li>Cover Photo Design</li>
-                <li>Up to 10 tweets per month</li>
+                <li><strong>Up to</strong> 10 tweets per month</li>
                 <li>Increase number of followers</li>
               </ul>
             </div>
-            <div class="pricing-footer">
-              <a href="#">Buy Now</a>
-            </div>
+            <div class="package-footer"><a href="">Buy now</a></div>
           </div>
         </div>
       </div>
     </div>
   </section>
-  <!-- End Pricing Section -->
 
   <?php include($_SERVER['DOCUMENT_ROOT'].'/inc/footer.php') ?>
 
