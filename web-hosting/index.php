@@ -79,7 +79,6 @@
                 <p>Starting at only</p>
                 <strong id="price">$3.99</strong>/mo
                 <p class="text-muted">Renewal Price: $3.99/mo</p>
-                <p class="description">For small and startup websites, all you need to begin your journey.</p>
                 <a class="btn btn-primary" href="https://billing.moderneradma.com/cart.php?a=add&pid=1">Sign Up</a>
               </div>
               <ul class="package-features">
@@ -118,7 +117,6 @@
                 <p>Starting at only</p>
                 <strong id="price">$10.99</strong>/mo
                 <p class="text-muted">Renewal Price: $10.99/mo</p>
-                <p class="description">Extra speed and storage for those who need extra power, in a budget.</p>
                 <a class="btn btn-primary" href="https://billing.moderneradma.com/cart.php?a=add&pid=1">Sign Up</a>
               </div>
               <ul class="package-features">
@@ -157,7 +155,6 @@
                 <p>Starting at only</p>
                 <strong id="price">$17.99</strong>/mo
                 <p class="text-muted">Renewal Price: $17.99/mo</p>
-                <p class="description">Ideal for big websites that require a lot of extra space and performance.</p>
                 <a class="btn btn-primary" href="https://billing.moderneradma.com/cart.php?a=add&pid=1">Sign Up</a>
               </div>
               <ul class="package-features">
