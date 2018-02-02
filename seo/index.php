@@ -65,88 +65,81 @@
     </div>
   </section>
 
-  <!-- Start Pricing Box Section -->
-  <section class="pad-t80 pad-b50" id="pricing">
+  <section>
     <div class="container">
       <div class="row">
-        <div class="col-md-12">
-          <div class="section-title text-center">
-            <h3>Pricing</h3>
-          </div>
-        </div>
-      </div>
-      <div class="row">
-        <div class="col-md-4">
-          <div class="pricing-box wow fadeInUp" data-wow-duration="1s">
-          <div class="pricing-head white" style="background: #222;">
-            <h4>Starter</h5>
-              <h4>$299.99</h4>
-              <p>Monthly</p>
-            </div>
-            <div class="pricing-body">
-              <ul>
-                <li>Up to 5 keywords</li>
-                <li>Up to 5 metatags</li>
-                <li>Onpage Optimization</li>
+        <div class="col-sm-4">
+          <div class="package-box">
+            <div class="package-header">Starter</div>
+            <div class="package-body">
+              <div class="wrapper">
+                <p>Starting at only</p>
+                <strong id="price">$299.99</strong>/mo
+                <p class="text-muted">Was: $349.99</p>
+                <a class="btn btn-primary" href="https://billing.moderneradma.com/cart.php?a=add&pid=1">Sign Up</a>
+              </div>
+              <ul class="package-features">
+                <li><strong>Up to</strong> 5 keywords</li>
+                <li><strong>Up to</strong> 5 metatags</li>
+                <li>On-page Optimization</li>
                 <li>Cross Browser Compatibility</li>
                 <li>Google Analytics Analysis</li>
               </ul>
             </div>
-            <div class="pricing-footer">
-              <a href="#">Buy Now</a>
-            </div>
+            <div class="package-footer"><a href="">Buy now</a></div>
           </div>
         </div>
-        <div class="col-md-4">
-          <div class="pricing-box wow fadeInUp" data-wow-duration="1s" data-wow-delay=".5s">
-            <div class="pricing-head white" style="background: #222;">
-                <h4>Professional</h5>
-              <h4>$749.99</h4>
-              <p>Monthly</p>
-            </div>
-            <div class="pricing-body">
-              <ul>
-                <li>Up to 20 keywords</li>
-                <li>Up to 25 metatags</li>
-                <li>Onpage optimization</li>
+
+        <div class="col-sm-4">
+          <div class="package-box" id="featured-package">
+            <div class="package-header">Professional</div>
+            <div class="package-body">
+              <div class="wrapper">
+                <p>Starting at only</p>
+                <strong id="price">$749.99</strong>/mo
+                <p class="text-muted">Was: $849.99</p>
+                <a class="btn btn-primary" href="https://billing.moderneradma.com/cart.php?a=add&pid=1">Sign Up</a>
+              </div>
+              <ul class="package-features">
+                <li><strong>Up to</strong> 5 Backlinks</li>
+                <li><strong>Up to</strong> 20 keywords</li>
+                <li><strong>Up to</strong> 25 metatags</li>
+                <li>On-page Optimization</li>
                 <li>Cross Browser Compatibility</li>
                 <li>Google Analytics Analysis</li>
-                <li>5 Backlinks</li>
                 <li>Strategic Landing Page</li>
               </ul>
             </div>
-            <div class="pricing-footer">
-              <a href="#">Buy Now</a>
-            </div>
+            <div class="package-footer"><a href="">Buy now</a></div>
           </div>
         </div>
-        <div class="col-md-4">
-          <div class="pricing-box wow fadeInUp" data-wow-duration="1s" data-wow-delay="1s">
-            <div class="pricing-head white" style="background: #222;">
-              <h4>Business</h5>
-              <h4>$999.99</h4>
-              <p>Monthly</p>
-            </div>
-            <div class="pricing-body">
-              <ul>
-                <li>Unlimited keywords</li>
-                <li>Unlimited metatags</li>
-                <li>Onpage optimization</li>
+
+        <div class="col-sm-4">
+          <div class="package-box">
+            <div class="package-header">Business</div>
+            <div class="package-body">
+              <div class="wrapper">
+                <p>Starting at only</p>
+                <strong id="price">$999.99</strong>/mo
+                <p class="text-muted">Was: $1,299.99/mo</p>
+                <a class="btn btn-primary" href="https://billing.moderneradma.com/cart.php?a=add&pid=1">Sign Up</a>
+              </div>
+              <ul class="package-features">
+                <li><strong>Up to</strong> 10 Backlinks</li>
+                <li><strong>Unlimited</strong> keywords</li>
+                <li><strong>Unlimited</strong> metatags</li>
+                <li>On-page Optimization</li>
                 <li>Cross Browser Compatibility</li>
                 <li>Google Analytics Analysis</li>
-                <li>10 Backlinks</li>
                 <li>Strategic Landing Page</li>
               </ul>
             </div>
-            <div class="pricing-footer">
-              <a href="#">Buy Now</a>
-            </div>
+            <div class="package-footer"><a href="">Buy now</a></div>
           </div>
         </div>
       </div>
     </div>
   </section>
-  <!-- End Pricing Section -->
 
   <?php include($_SERVER['DOCUMENT_ROOT'].'/inc/footer.php') ?>
 
