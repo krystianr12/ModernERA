@@ -53,8 +53,8 @@
                               <div class="inner-hover">
                                   <h4>Manatee Macs Elementary School</h4>
                                   <p>Logo & Flyer Design</p>
+                                  <a class="link" href="/portfolio/manatee-macs/"><i class="fa fa-search"></i></a>
                               </div>
-                              <a class="link" href="/portfolio/manatee-macs/"><i class="fa fa-search"></i></a>
                               <!-- <a class="zoom" href="/assets/images/portfolio/massonry/macs.jpg" data-lightbox="portfolio-1"><i class="fa fa-picture-o"></i></a> -->
                           </div>
                       </div>
