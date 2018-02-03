@@ -1,93 +1,171 @@
 <?php
-/*
-THIS FILE USES PHPMAILER INSTEAD OF THE PHP MAIL() FUNCTION
-*/
 
-require 'PHPMailer/PHPMailerAutoload.php';
+  /*
+    This file was created to send email forms from our website using PHPMailer.
+    @author Krystian Rodriguez
+  */
 
-/*
-*  CONFIGURE EVERYTHING HERE
-*/
+  use PHPMailer\PHPMailer\PHPMailer;
+  use PHPMailer\PHPMailer\SMTP;
+  use PHPMailer\PHPMailer\Exception;
 
-// an email address that will be in the From field of the email.
-$fromEmail = '';
-$fromName = 'Email From Website';
+  require 'PHPMailer/Exception.php';
+  require 'PHPMailer/PHPMailer.php';
+  require 'PHPMailer/SMTP.php';
 
-// an email address that will receive the email with the output of the form
-$sendToEmail = 'your-email-id@mail.com';
-$sendToName = 'Shahriyar Ahmed';
+  // Attempt to instantiate a new instance of PHPMailer to send the mail.
+  $mail = setupMail();
 
-// subject of the email
-$subject = 'New message from contact form';
+  // Check if PHPMailer was instantiated correctly, if not, stop the code
+  if ($mail == null){
+    echo 'Couldn\'t instantiate mail client';
+    return;
+  }
 
-// form field names and their translations.
-// array variable name => Text to appear in the email
-$fields = array('name' => 'Name', 'subject' => 'Subject', 'phone' => 'Phone', 'email' => 'Email', 'message' => 'Message');
+  // attempt to deliver the mail
+  try {
+    $mail->setFrom("admin@moderneradma.com", "ModernERA Contact Forms");
+    $mail->addAddress('contact@moderneradma.com');       // Add a recipient
+    $mail-> isHTML(true);
+    $mail->Subject = "New Contact Form";
+    $mail->Body = buildMessage();
 
-// message that will be displayed when everything is OK :)
-$okMessage = 'Contact form successfully submitted. Thank you, I will get back to you soon!';
+    $mail->send();
+    echo '
 
-// If something goes wrong, we will display this message.
-$errorMessage = 'There was an error while submitting the form. Please try again later';
+    <style>
+      body {
+        background: #ed1c24;
+        font-family: "Verdana";
+        overflow: hidden;
+      }
 
-/*
-*  LET'S DO THE SENDING
-*/
-
-// if you are not debugging and don't need error reporting, turn this off by error_reporting(0);
-error_reporting(E_ALL & ~E_NOTICE);
-
-try
-{
-    
-    if(count($_POST) == 0) throw new \Exception('Form is empty');
-    
-    $emailTextHtml = "<h1>You have a new message from your contact form</h1><hr>";
-    $emailTextHtml .= "<table>";
-
-    foreach ($_POST as $key => $value) {
-        // If the field exists in the $fields array, include it in the email
-        if (isset($fields[$key])) {
-            $emailTextHtml .= "<tr><th>$fields[$key]</th><td>$value</td></tr>";
+      .container {
+        background: #fff;
+        border: 1px #ddd solid;
+        padding: 20px;
+        margin: 0 auto;
+        position: relative;
+        top: 33%;
+        width: 80%; }
+        .container p {
+          font-size: 1.5em;
         }
-    }
-    $emailTextHtml .= "</table><hr>";
-    $emailTextHtml .= "";
-    
-    $mail = new PHPMailer;
 
-    $mail->setFrom($fromEmail, $fromName);
-    $mail->addAddress($sendToEmail, $sendToName); // you can add more addresses by simply adding another line with $mail->addAddress();
-    $mail->addReplyTo($from);
-    
-    $mail->isHTML(true);
+      .header {
+        display: inline-block; }
+        .header h2 {
+          display: inline-block;
+          position: relative;
+          top: 45%;
+          left: 2%;
+          overflow-wrap: normal;
+         }
 
-    $mail->Subject = $subject;
-    $mail->msgHTML($emailTextHtml); // this will also create a plain-text version of the HTML email, very handy
-    
-    
-    if(!$mail->send()) {
-        throw new \Exception('I could not send the email.' . $mail->ErrorInfo);
-    }
-    
-    $responseArray = array('type' => 'success', 'message' => $okMessage);
-}
-catch (\Exception $e)
-{
-    // $responseArray = array('type' => 'danger', 'message' => $errorMessage);
-    $responseArray = array('type' => 'danger', 'message' => $e->getMessage());
-}
+    </style>
 
+    <div class="container">
+      <div class="header">
+        <img src="https://www.moderneradma.com/assets/images/logo/logo.png" align="left" width="340" height="60"/>
+        <h2>Your message has been sent!</h2><br>
+      </div>
 
-// if requested by AJAX request return JSON response
-if (!empty($_SERVER['HTTP_X_REQUESTED_WITH']) && strtolower($_SERVER['HTTP_X_REQUESTED_WITH']) == 'xmlhttprequest') {
-    $encoded = json_encode($responseArray);
-    
-    header('Content-Type: application/json');
-    
-    echo $encoded;
-}
-// else just display the message
-else {
-    echo $responseArray['message'];
-}
+      <hr>
+
+      <p> Thank you for contacting ModernERA, you will be hearing back from us pretty soon! </p>
+
+    </div>';
+
+  } catch (Exception $e) {
+
+    echo '
+    <style>
+      body {
+        background: #ed1c24;
+        font-family: "Verdana";
+        overflow: hidden;
+      }
+
+      .container {
+        background: #fff;
+        border: 1px #ddd solid;
+        padding: 20px;
+        margin: 0 auto;
+        position: relative;
+        top: 33%;
+        width: 80%; }
+        .container p {
+          font-size: 1.5em;
+        }
+
+      .header {
+        display: inline-block; }
+        .header h2 {
+          display: inline-block;
+          position: relative;
+          top: 45%;
+          left: 2%;
+          overflow-wrap: normal;
+         }
+
+    </style>
+
+    <div class="container">
+      <div class="header">
+        <img src="https://www.moderneradma.com/assets/images/logo/logo.png" align="left" width="340" height="60"/>
+        <h2>Failed to send your message!</h2><br>
+      </div>
+
+      <hr>
+
+      <p> Something went wrong while trying to send your message. Please try again. ('.$mail->ErrorInfo.')</p>
+
+    </div>';
+  }
+
+  function setupMail(){
+    // Server settings
+    $mail = new PHPMailer();
+    $mail->isSMTP();                                      // Enable verbose debug output
+    // $mail->SMTPDebug = 2;                                 // Set mailer to use SMTP
+    $mail->Host = 'mail.moderneradma.com';                // Specify main and backup SMTP servers
+    $mail->SMTPAuth = true;                               // Enable SMTP authentication
+    $mail->Username = 'contact@moderneradma.com';         // SMTP username
+    $mail->Password = 'Moderneradma25@%';                 // SMTP password
+    $mail->SMTPSecure = 'ssl';                            // Enable TLS encryption, `ssl` also accepted
+    $mail->Port = 465;
+
+    return $mail;
+  }
+
+  /*
+    This function will build the HTML message that will be sent via email.
+    Created to keep the code looking nice and clean.
+  */
+  function buildMessage(){
+    $message = '<img src="https://www.moderneradma.com/assets/images/logo/logo.png" alt="" width="340" height="60"/><br>';
+    $message .= '<h1>New contact form submittion from ModernERA</h1><hr>';
+    $message .= '<table>';
+
+    // Validate input data
+    if (count($_POST)!=0) {
+      foreach ($_POST as $key => $value) {
+        // Check if $key is not empty, except for phone which is optional
+        if (isset($key) || ($key == "phone" && isset($key))){
+          $message .= '<tr><td><strong>'.ucfirst($key).'</strong>: $value</th></tr>';
+          continue;
+        }
+
+        // throw error if not optional data is missing
+        else if (!isset($key)){
+          echo 'Form data missing';
+          return;
+        }
+      }
+    } else { echo 'Form data missing';  return; }
+
+    $message .= '</table>';
+    return $message;
+  }
+
+?>
