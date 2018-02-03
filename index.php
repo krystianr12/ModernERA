@@ -233,7 +233,7 @@
     <section id="contact-form" class="pad80" style="background: #f9f9f9">
       <div class="container">
         <div class="col-md-12">
-          <form id="contactForm" class="contact-form" method="post" role="form" action="assets/php/contact.php">
+          <form id="contactForm" class="contact-form" method="post" role="form" action="/assets/php/contact.php">
 
             <div class="messages"></div>
 
