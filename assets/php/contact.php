@@ -152,7 +152,7 @@
       foreach ($_POST as $key => $value) {
         // Check if $key is not empty, except for phone which is optional
         if (isset($key) || ($key == "phone" && isset($key))){
-          $message .= '<tr><td><strong>'.ucfirst($key).'</strong>: $value</th></tr>';
+          $message .= "<tr><td><strong>".ucfirst($key)."</strong>: $value</th></tr>";
           continue;
         }
 
