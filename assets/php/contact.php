@@ -26,12 +26,12 @@
   // attempt to deliver the mail
   try {
     $mail->setFrom("admin@moderneradma.com", "ModernERA Contact Forms");
-    $mail->addAddress('contact@moderneradma.com');       // Add a recipient
+    $mail->addAddress('info@moderneradma.com');       // Add a recipient
     $mail-> isHTML(true);
     $mail->Subject = "New Contact Form";
     $mail->Body = buildMessage();
 
-    // $mail->send();
+    $mail->send();
     echo '
 
     <style>
@@ -128,13 +128,13 @@
     // Server settings
     $mail = new PHPMailer();
     $mail->isSMTP();                                      // Enable verbose debug output
-    // $mail->SMTPDebug = 2;                                 // Set mailer to use SMTP
-    $mail->Host = 'SMTP_HOST';                // Specify main and backup SMTP servers
+    $mail->SMTPDebug = 2;                                 // Set mailer to use SMTP
+    $mail->Host = SMTP_HOST;                // Specify main and backup SMTP servers
     $mail->SMTPAuth = true;                               // Enable SMTP authentication
-    $mail->Username = 'SMTP_USERNAME';         // SMTP username
-    $mail->Password = 'SMTP_PASSWORD';                 // SMTP password
+    $mail->Username = SMTP_USERNAME;         // SMTP username
+    $mail->Password = SMTP_PASSWORD;                 // SMTP password
     $mail->SMTPSecure = 'ssl';                            // Enable TLS encryption, `ssl` also accepted
-    $mail->Port = 'SMTP_PORT';
+    $mail->Port = SMTP_PORT;
 
     return $mail;
   }
