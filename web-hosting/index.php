@@ -35,12 +35,7 @@
         <div class="col-lg-6">
           <h2 class="pad-t50">Big or small, we got your back.</h2><br>
           <p>It doesn't matter how big your website is because we're ready with the latest technologies to provide our customers with excellent service for all your web hosting needs. We know how important your online presence is for you and that's why we're here to help.</p><br>
-          <div class="container" style="display: inline-block;">
-            <img src="/assets/images/others/cpanel-logo.png" alt="" width="100px" style="margin-left: 10px;">
-            <img src="/assets/images/others/php-logo.png" alt="" width="100px" style="margin-left: 20px;">
-            <img src="/assets/images/others/wp-logo.png" alt="" width="70px" style="margin-left: 20px;">
-            <img src="/assets/images/others/webmail_logo.png" alt="" width="150px" style="margin-left: 20px;">
-          </div>
+          <img src="/assets/images/others/popular-apps.png" alt="">
         </div>
       </div>
     </div>
