@@ -76,7 +76,7 @@
                 <p>Starting at only</p>
                 <strong id="price">$299.99</strong>/mo
                 <p class="text-muted">Was: $349.99</p>
-                <a class="btn btn-primary" href="https://billing.moderneradma.com/cart.php?a=add&pid=1">Sign Up</a>
+                <a class="btn btn-primary" href="https://billing.moderneradma.com/cart.php?a=add&pid=17">Sign Up</a>
               </div>
               <ul class="package-features">
                 <li><strong>Up to</strong> 5 keywords</li>
@@ -86,7 +86,7 @@
                 <li>Google Analytics Analysis</li>
               </ul>
             </div>
-            <div class="package-footer"><a href="">Buy now</a></div>
+            <div class="package-footer"><a href="https://billing.moderneradma.com/cart.php?a=add&pid=18">Buy now</a></div>
           </div>
         </div>
 
@@ -98,7 +98,7 @@
                 <p>Starting at only</p>
                 <strong id="price">$749.99</strong>/mo
                 <p class="text-muted">Was: $849.99</p>
-                <a class="btn btn-primary" href="https://billing.moderneradma.com/cart.php?a=add&pid=1">Sign Up</a>
+                <a class="btn btn-primary" href="https://billing.moderneradma.com/cart.php?a=add&pid=18">Sign Up</a>
               </div>
               <ul class="package-features">
                 <li><strong>Up to</strong> 5 Backlinks</li>
@@ -110,7 +110,7 @@
                 <li>Strategic Landing Page</li>
               </ul>
             </div>
-            <div class="package-footer"><a href="">Buy now</a></div>
+            <div class="package-footer"><a href="https://billing.moderneradma.com/cart.php?a=add&pid=18">Buy now</a></div>
           </div>
         </div>
 
@@ -122,7 +122,7 @@
                 <p>Starting at only</p>
                 <strong id="price">$999.99</strong>/mo
                 <p class="text-muted">Was: $1,299.99/mo</p>
-                <a class="btn btn-primary" href="https://billing.moderneradma.com/cart.php?a=add&pid=1">Sign Up</a>
+                <a class="btn btn-primary" href="https://billing.moderneradma.com/cart.php?a=add&pid=19">Sign Up</a>
               </div>
               <ul class="package-features">
                 <li><strong>Up to</strong> 10 Backlinks</li>
@@ -134,7 +134,7 @@
                 <li>Strategic Landing Page</li>
               </ul>
             </div>
-            <div class="package-footer"><a href="">Buy now</a></div>
+            <div class="package-footer"><a href="https://billing.moderneradma.com/cart.php?a=add&pid=19">Buy now</a></div>
           </div>
         </div>
       </div>

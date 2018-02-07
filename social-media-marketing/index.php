@@ -63,7 +63,7 @@
                 <p>Starting at only</p>
                 <strong id="price">$199.99</strong>/mo
                 <p class="text-muted">Was: $249.99</p>
-                <a class="btn btn-primary" href="https://billing.moderneradma.com/cart.php?a=add&pid=1">Sign Up</a>
+                <a class="btn btn-primary" href="https://billing.moderneradma.com/cart.php?a=add&pid=20">Sign Up</a>
               </div>
               <ul class="package-features">
                 <li>Profile Page Setup</li>
@@ -75,7 +75,7 @@
                 <li><strong>Optional</strong> Facebook Ads Management</li>
               </ul>
             </div>
-            <div class="package-footer"><a href="">Buy now</a></div>
+            <div class="package-footer"><a href="https://billing.moderneradma.com/cart.php?a=add&pid=20">Buy now</a></div>
           </div>
         </div>
 
@@ -87,7 +87,7 @@
                 <p>Starting at only</p>
                 <strong id="price">$149.99</strong>/mo
                 <p class="text-muted">Was: $199.99</p>
-                <a class="btn btn-primary" href="https://billing.moderneradma.com/cart.php?a=add&pid=1">Sign Up</a>
+                <a class="btn btn-primary" href="https://billing.moderneradma.com/cart.php?a=add&pid=21">Sign Up</a>
               </div>
               <ul class="package-features">
                 <li>Profile Page Setup</li>
@@ -98,7 +98,7 @@
                 <li><strong>Optional</strong> Instagram Ads Management</li>
               </ul>
             </div>
-            <div class="package-footer"><a href="">Buy now</a></div>
+            <div class="package-footer"><a href="https://billing.moderneradma.com/cart.php?a=add&pid=21">Buy now</a></div>
           </div>
         </div>
 
@@ -110,7 +110,7 @@
                 <p>Starting at only</p>
                 <strong id="price">$999.99</strong>/mo
                 <p class="text-muted">Was: $1,299.99/mo</p>
-                <a class="btn btn-primary" href="https://billing.moderneradma.com/cart.php?a=add&pid=1">Sign Up</a>
+                <a class="btn btn-primary" href="https://billing.moderneradma.com/cart.php?a=add&pid=22">Sign Up</a>
               </div>
               <ul class="package-features">
                 <li>Profile Page Setup</li>
@@ -120,7 +120,7 @@
                 <li>Increase number of followers</li>
               </ul>
             </div>
-            <div class="package-footer"><a href="">Buy now</a></div>
+            <div class="package-footer"><a href="https://billing.moderneradma.com/cart.php?a=add&pid=22">Buy now</a></div>
           </div>
         </div>
       </div>

@@ -128,7 +128,7 @@
                 <p>Starting at only</p>
                 <strong id="price">$1,499.99</strong>
                 <p class="text-muted">Was: $1,745.00</p>
-                <a class="btn btn-primary" href="https://billing.moderneradma.com/cart.php?a=add&pid=1">Sign Up</a>
+                <a class="btn btn-primary" href="https://billing.moderneradma.com/cart.php?a=add&pid=6">Sign Up</a>
               </div>
               <ul class="package-features">
                 <li>All important features <i class="fa fa-question-circle" data-toggle="important-features"></i></li>
@@ -140,7 +140,7 @@
                 <li><strong>Gallery</strong></li>
               </ul>
             </div>
-            <div class="package-footer"><a href="">Buy now</a></div>
+            <div class="package-footer"><a href="https://billing.moderneradma.com/cart.php?a=add&pid=6">Buy now</a></div>
 
             <div class="important-features" style="visibility: hidden;">
               <h4>Important Features</h4>
@@ -171,7 +171,7 @@
                 <p>Starting at only</p>
                 <strong id="price">$1,749.99</strong>
                 <p class="text-muted">Was: $2,199.99</p>
-                <a class="btn btn-primary" href="https://billing.moderneradma.com/cart.php?a=add&pid=1">Sign Up</a>
+                <a class="btn btn-primary" href="https://billing.moderneradma.com/cart.php?a=add&pid=8">Sign Up</a>
               </div>
               <ul class="package-features">
                 <li>All important features <i class="fa fa-question-circle" data-toggle="important-features"></i></li>
@@ -183,7 +183,7 @@
                 <li><strong>Custom Features</strong></li>
               </ul>
             </div>
-            <div class="package-footer"><a href="">Buy now</a></div>
+            <div class="package-footer"><a href="https://billing.moderneradma.com/cart.php?a=add&pid=8">Buy now</a></div>
 
             <div class="important-features" style="visibility: hidden;">
               <h4>Important Features</h4>
@@ -214,7 +214,7 @@
                 <p>Starting at only</p>
                 <strong id="price">$2,989.99</strong>
                 <p class="text-muted">Was: $3,499.99</p>
-                <a class="btn btn-primary" href="https://billing.moderneradma.com/cart.php?a=add&pid=1">Sign Up</a>
+                <a class="btn btn-primary" href="https://billing.moderneradma.com/cart.php?a=add&pid=10">Sign Up</a>
               </div>
               <ul class="package-features">
                 <li>All important features <i class="fa fa-question-circle" data-toggle="important-features"></i></li>
@@ -226,7 +226,7 @@
                 <li><strong>Optional</strong> Website built with CMS</li>
               </ul>
             </div>
-            <div class="package-footer"><a href="">Buy now</a></div>
+            <div class="package-footer"><a href="https://billing.moderneradma.com/cart.php?a=add&pid=10">Buy now</a></div>
 
             <div class="important-features" style="visibility: hidden;">
               <h4>Important Features</h4>
@@ -245,7 +245,7 @@
               <h4>Basic SEO <i class="fa fa-check-circle" style="color: green;"></i></h4><br>
               <p>SEO will help your website earn better ranking on most popular search engines.</p>
             </div>
-            
+
           </div>
         </div>
       </div>

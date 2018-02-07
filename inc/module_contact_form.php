@@ -21,7 +21,7 @@
 
             <div class="col-sm-6 col-lg-3 hidden-xs text-center wow fadeInRight" data-wow-duration="2s" style="margin-top: 30px;">
               <i class="fa fa-envelope-o fa-3x"></i>
-              <p style="color: #EC1C24">contact@moderneradma.com</p>
+              <p style="color: #EC1C24">info@moderneradma.com</p>
             </div>
           </div><br>
 
