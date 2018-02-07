@@ -92,7 +92,7 @@
                 <li><strong>Up to</strong> 1 Database</li>
               </ul>
             </div>
-            <div class="package-footer"><a href="">Buy now</a></div>
+            <div class="package-footer"><a href="https://billing.moderneradma.com/cart.php?a=add&pid=1">Buy now</a></div>
 
             <div class="important-features" style="visibility: hidden;">
               <h4>Important Features</h4>
@@ -117,7 +117,7 @@
                 <p>Starting at only</p>
                 <strong id="price">$10.99</strong>/mo
                 <p class="text-muted">Renewal Price: $10.99/mo</p>
-                <a class="btn btn-primary" href="https://billing.moderneradma.com/cart.php?a=add&pid=1">Sign Up</a>
+                <a class="btn btn-primary" href="https://billing.moderneradma.com/cart.php?a=add&pid=2">Sign Up</a>
               </div>
               <ul class="package-features">
                 <li>All important features <i class="fa fa-question-circle" data-toggle="important-features"></i></li>
@@ -130,7 +130,7 @@
                 <li><strong>Up to</strong> 3 Databases</li>
               </ul>
             </div>
-            <div class="package-footer"><a href="">Buy now</a></div>
+            <div class="package-footer"><a href="https://billing.moderneradma.com/cart.php?a=add&pid=2">Buy now</a></div>
 
             <div class="important-features" style="visibility: hidden;">
               <h4>Important Features</h4>
@@ -155,7 +155,7 @@
                 <p>Starting at only</p>
                 <strong id="price">$17.99</strong>/mo
                 <p class="text-muted">Renewal Price: $17.99/mo</p>
-                <a class="btn btn-primary" href="https://billing.moderneradma.com/cart.php?a=add&pid=1">Sign Up</a>
+                <a class="btn btn-primary" href="https://billing.moderneradma.com/cart.php?a=add&pid=4">Sign Up</a>
               </div>
               <ul class="package-features">
                 <li>All important features <i class="fa fa-question-circle" data-toggle="important-features"></i></li>
@@ -168,7 +168,7 @@
                 <li><strong>Unlimited</strong> Databases</li>
               </ul>
             </div>
-            <div class="package-footer"><a href="">Buy now</a></div>
+            <div class="package-footer"><a href="https://billing.moderneradma.com/cart.php?a=add&pid=4">Buy now</a></div>
 
             <div class="important-features" style="visibility: hidden;">
               <h4>Important Features</h4>
