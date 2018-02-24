@@ -54,6 +54,15 @@
             </ul>
           </div>
         </div>
+
+        <div class="col-md-3">
+          <div class="footer-title">
+            <h3>Pay Now</h3>
+            <p>Send a custom payment using your favorite payment gateway!</p>
+          </div>
+
+          <a href="https://billing.moderneradma.com/cart.php?a=confproduct&i=0"><img src="/assets/images/others/payment-options.png" alt="Payment Options"></a>
+        </div>
       </div>
       <div class="row">
         <div class="copyright">
