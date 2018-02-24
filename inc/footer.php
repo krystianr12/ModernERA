@@ -61,7 +61,7 @@
             <p>Send a custom payment using your favorite payment gateway!</p>
           </div>
 
-          <a href="https://billing.moderneradma.com/cart.php?a=confproduct&i=0"><img src="/assets/images/others/payment-options.png" alt="Payment Options"></a>
+          <a href="https://billing.moderneradma.com/cart.php?a=add&pid=23"><img src="/assets/images/others/payment-options.png" alt="Payment Options"></a>
         </div>
       </div>
       <div class="row">
