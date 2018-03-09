@@ -61,7 +61,18 @@
             <p>Send a custom payment using your favorite payment gateway!</p>
           </div>
 
-          <a href="https://billing.moderneradma.com/cart.php?a=add&pid=23"><img src="/assets/images/others/payment-options.png" alt="Payment Options"></a>
+          <form action='https://www.paypal.com/cgi-bin/webscr' method='post' name='form'>
+            <input type='hidden' name='business' value='jakecherena@gmail.com'>
+            <input type='hidden' name='cmd' value='_xclick'>
+            <input type='hidden' name='item_name' value='Custom Payment'>
+            <input type='hidden' name='item_number' value='2'>
+            <input type='hidden' name='amount' value='0'>
+            <input type='hidden' name='no_shipping' value='1'>
+            <input type='hidden' name='currency_code' value='USD'>
+            <input type='hidden' name='cancel_return' value='https://moderneradma.com'>
+            <input type='hidden' name='return' value='https://moderneradma.com'>
+            <input type="image"  src="/assets/images/others/payment-options.png" name="submit">
+          </form>
         </div>
       </div>
       <div class="row">
