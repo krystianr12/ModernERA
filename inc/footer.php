@@ -135,7 +135,7 @@
   <script src="/assets/js/jquery.countTo.js"></script>
   <script src="/assets/js/wow.min.js"></script>
   <script src="/assets/js/jquery.isotope.min.js"></script>
-  <script src="/assets/js/lightbox.js"></script>
+  <script src="/assets/fancybox/jquery.fancybox.min.js"></script>
   <script src="/assets/js/owl.carousel.js"></script>
   <script src="/assets/js/jquery.easypiechart.js"></script>
   <script src="/assets/js/jquery.mb.YTPlayer.js"></script>

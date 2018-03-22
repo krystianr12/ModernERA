@@ -31,7 +31,7 @@
   <!-- ET Lineicon CSS -->
   <link rel="stylesheet" href="/assets/css/lineicon.css">
   <!-- Light Box CSS -->
-  <link rel="stylesheet" href="/assets/css/lightbox.css">
+  <link rel="stylesheet" href="/assets/fancybox/jquery.fancybox.min.css">
   <!-- Animate CSS -->
   <link rel="stylesheet" href="/assets/css/animate.css">
 
