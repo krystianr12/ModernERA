@@ -46,8 +46,8 @@
         <div class="wrapper-page-content hidden-xs hidden-sm hidden-md">
           <div class="col-lg-6">
             <div class="video-carousel owl-carousel owl-theme">
-              <a href="/assets/video/wedding-teaser.mp4" data-lightbox="video1"><img class="img-responsive pull-left" src="/assets/images/others/couple3.jpg" alt=""></a>
-              <a href="https://www.youtube.com/embed/ylQ0KEmQx9k" data-lightbox="video2"><img class="img-responsive pull-left" src="/assets/images/others/audi-emblem.jpg" alt=""></a>
+              <a href="/assets/video/wedding-teaser.mp4" data-type="iframe" data-fancybox="video-gallery"><img class="img-responsive pull-left" src="/assets/images/others/couple3.jpg" alt=""></a>
+              <a href="https://www.youtube.com/embed/ylQ0KEmQx9k" data-fancybox="video-gallery"><img class="img-responsive pull-left" src="/assets/images/others/audi-emblem.jpg" alt=""></a>
             </div>
           </div>
           <div class="col-lg-6">
@@ -83,8 +83,8 @@
           </div>
           <div class="col-lg-6">
             <div class="photo-carousel owl-carousel owl-theme">
-              <a href="/assets/images/others/couple1.jpg" data-lightbox="photo1"><img src="/assets/images/others/couple1.jpg" alt=""></a>
-              <a href="/assets/images/others/couple2.jpg" data-lightbox="photo1"><img src="/assets/images/others/couple2.jpg" alt=""></a>
+              <a href="/assets/images/others/couple1.jpg" data-fancybox="photo-gallery"><img src="/assets/images/others/couple1.jpg" alt=""></a>
+              <a href="/assets/images/others/couple2.jpg" data-fancybox="photo-gallery"><img src="/assets/images/others/couple2.jpg" alt=""></a>
             </div>
           </div>
         </div>
