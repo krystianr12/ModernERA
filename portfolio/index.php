@@ -36,10 +36,10 @@
               <div class="portfolio-box">
                   <div class="col-md-4 col-sm-6 design marketing">
                       <div class="portfolio-post mb30">
-                          <img src="/assets/images/portfolio/massonry/moody.png" alt="">
+                          <img src="/assets/images/portfolio/moody-ortho.jpg" alt="Moody Orthodontics">
                           <div class="hover-box">
                               <div class="inner-hover">
-                                  <h4>Manatee Macs Elementary School</h4>
+                                  <h4>Moody Orthodontics</h4>
                                   <p>Logo & Flyer Design</p>
                                   <a class="link" href="/portfolio/moody-orthodontics/"><i class="fa fa-search"></i></a>
                               </div>
@@ -48,7 +48,7 @@
                   </div>
                   <div class="col-md-4 col-sm-6 design marketing">
                       <div class="portfolio-post mb30">
-                          <img src="/assets/images/portfolio/massonry/macs.png" alt="">
+                          <img src="/assets/images/portfolio/manatee-macs.jpg" alt="Manatee Macs">
                           <div class="hover-box">
                               <div class="inner-hover">
                                   <h4>Manatee Macs Elementary School</h4>
@@ -61,7 +61,7 @@
                   </div>
                   <div class="col-md-4 col-sm-6 design marketing">
                       <div class="portfolio-post mb30">
-                          <img src="/assets/images/portfolio/massonry/mikes.png" alt="">
+                          <img src="/assets/images/portfolio/mike.jpg" alt="Mike's Tree Trimming">
                           <div class="hover-box">
                               <div class="inner-hover">
                                   <h4>Mike's Tree Trimming</h4>
@@ -72,21 +72,9 @@
                           </div>
                       </div>
                   </div>
-                  <div class="col-md-4 col-sm-6 html design">
-                      <div class="portfolio-post mb30">
-                          <img src="/assets/images/portfolio/massonry/simple-sound.jpg" alt="">
-                          <div class="hover-box">
-                              <div class="inner-hover">
-                                  <h4>Simple Sound</h4>
-                                  <p>Logo Design</p>
-                                  <a class="zoom" href="/assets/images/portfolio/massonry/simple-design.jpg" data-lightbox="portfolio-1"><i class="fa fa-picture-o"></i></a>
-                              </div>
-                          </div>
-                      </div>
-                  </div>
                   <div class="col-md-4 col-sm-6 joomla video-photo">
                       <div class="portfolio-post mb30">
-                          <img src="/assets/images/portfolio/massonry/audi.jpg" alt="">
+                          <img src="/assets/images/portfolio/audi.jpg" alt="Audi">
                           <div class="hover-box">
                               <div class="inner-hover">
                                   <h4>Audi</h4>
@@ -98,12 +86,156 @@
                   </div>
                   <div class="col-md-4 col-sm-6 html web">
                       <div class="portfolio-post mb30">
-                          <img src="/assets/images/portfolio/massonry/florida-splash.png" alt="">
+                          <img src="/assets/images/portfolio/massonry/florida-splash.jpg" alt="Florida Splash">
                           <div class="hover-box">
                               <div class="inner-hover">
                                   <h4>Florida Splash</h4>
                                   <p>Web Design</p>
-                                  <a class="zoom" href="/assets/images/portfolio/massonry/florida-splash.jpg" data-lightbox="portfolio-1"><i class="fa fa-picture-o"></i></a>
+                                  <a class="zoom" href="/assets/images/portfolio/florida-splash.jpg" data-lightbox="portfolio-1"><i class="fa fa-picture-o"></i></a>
+                              </div>
+                          </div>
+                      </div>
+                  </div>
+                  <!-- <div class="col-md-4 col-sm-6 design">
+                      <div class="portfolio-post mb30">
+                          <img src="/assets/images/portfolio/3amthoughts.jpg" alt="">
+                          <div class="hover-box">
+                              <div class="inner-hover">
+                                  <h4>3AM Thoughts</h4>
+                                  <p>Logo Design</p>
+                                  <a class="zoom" href="/assets/images/portfolio/3amthoughts.jpg" data-lightbox="portfolio-1"><i class="fa fa-picture-o"></i></a>
+                              </div>
+                          </div>
+                      </div>
+                  </div> -->
+                  <div class="col-md-4 col-sm-6 design">
+                      <div class="portfolio-post mb30">
+                          <img src="/assets/images/portfolio/arsenal.jpg" alt="Arsenal">
+                          <div class="hover-box">
+                              <div class="inner-hover">
+                                  <h4>Arsenal</h4>
+                                  <p>Logo Design</p>
+                                  <a class="zoom" href="/assets/images/portfolio/arsenal.jpg" data-lightbox="portfolio-1"><i class="fa fa-picture-o"></i></a>
+                              </div>
+                          </div>
+                      </div>
+                  </div>
+                  <div class="col-md-4 col-sm-6 design">
+                      <div class="portfolio-post mb30">
+                          <img src="/assets/images/portfolio/american-auto.jpg" alt="American Auto">
+                          <div class="hover-box">
+                              <div class="inner-hover">
+                                  <h4>American Auto</h4>
+                                  <p>Logo Design</p>
+                                  <a class="zoom" href="/assets/images/portfolio/american-auto.jpg" data-lightbox="portfolio-1"><i class="fa fa-picture-o"></i></a>
+                              </div>
+                          </div>
+                      </div>
+                  </div>
+                  <div class="col-md-4 col-sm-6 design">
+                      <div class="portfolio-post mb30">
+                          <img src="/assets/images/portfolio/anton-nelson.jpg" alt="Anton Nelson">
+                          <div class="hover-box">
+                              <div class="inner-hover">
+                                  <h4>Anton Nelson</h4>
+                                  <p>Logo Design</p>
+                                  <a class="zoom" href="/assets/images/portfolio/anton-nelson.jpg" data-lightbox="portfolio-1"><i class="fa fa-picture-o"></i></a>
+                              </div>
+                          </div>
+                      </div>
+                  </div>
+                  <div class="col-md-4 col-sm-6 design">
+                      <div class="portfolio-post mb30">
+                          <img src="/assets/images/portfolio/bra-blider.jpg" alt="Bra Blider">
+                          <div class="hover-box">
+                              <div class="inner-hover">
+                                  <h4>Bra Blider</h4>
+                                  <p>Logo Design</p>
+                                  <a class="zoom" href="/assets/images/portfolio/bra-blider.jpg" data-lightbox="portfolio-1"><i class="fa fa-picture-o"></i></a>
+                              </div>
+                          </div>
+                      </div>
+                  </div>
+                  <div class="col-md-4 col-sm-6 design">
+                      <div class="portfolio-post mb30">
+                          <img src="/assets/images/portfolio/creativity.jpg" alt="Creativity">
+                          <div class="hover-box">
+                              <div class="inner-hover">
+                                  <h4>Creativity</h4>
+                                  <p>Logo Design</p>
+                                  <a class="zoom" href="/assets/images/portfolio/creativity.jpg" data-lightbox="portfolio-1"><i class="fa fa-picture-o"></i></a>
+                              </div>
+                          </div>
+                      </div>
+                  </div>
+                  <div class="col-md-4 col-sm-6 design">
+                      <div class="portfolio-post mb30">
+                          <img src="/assets/images/portfolio/crypto-trend-signals.jpg" alt="Crypto Trend Signals">
+                          <div class="hover-box">
+                              <div class="inner-hover">
+                                  <h4>Crypto Trend Signals</h4>
+                                  <p>Logo Design</p>
+                                  <a class="zoom" href="/assets/images/portfolio/crypto-trend-signals.jpg" data-lightbox="portfolio-1"><i class="fa fa-picture-o"></i></a>
+                              </div>
+                          </div>
+                      </div>
+                  </div>
+                  <div class="col-md-4 col-sm-6 design">
+                      <div class="portfolio-post mb30">
+                          <img src="/assets/images/portfolio/gear-fitness.jpg" alt="Gear Fitness">
+                          <div class="hover-box">
+                              <div class="inner-hover">
+                                  <h4>Gear Fitness</h4>
+                                  <p>Logo Design</p>
+                                  <a class="zoom" href="/assets/images/portfolio/gear-fitness.jpg" data-lightbox="portfolio-1"><i class="fa fa-picture-o"></i></a>
+                              </div>
+                          </div>
+                      </div>
+                  </div>
+                  <div class="col-md-4 col-sm-6 design">
+                      <div class="portfolio-post mb30">
+                          <img src="/assets/images/portfolio/green-homes.jpg" alt="Green Homes">
+                          <div class="hover-box">
+                              <div class="inner-hover">
+                                  <h4>Green Homes</h4>
+                                  <p>Logo Design</p>
+                                  <a class="zoom" href="/assets/images/portfolio/green-homes.jpg" data-lightbox="portfolio-1"><i class="fa fa-picture-o"></i></a>
+                              </div>
+                          </div>
+                      </div>
+                  </div>
+                  <div class="col-md-4 col-sm-6 design">
+                      <div class="portfolio-post mb30">
+                          <img src="/assets/images/portfolio/infinity-geek.jpg" alt="Infinity Geek">
+                          <div class="hover-box">
+                              <div class="inner-hover">
+                                  <h4>Infinity Geek</h4>
+                                  <p>Logo Design</p>
+                                  <a class="zoom" href="/assets/images/portfolio/infinity-geek.jpg" data-lightbox="portfolio-1"><i class="fa fa-picture-o"></i></a>
+                              </div>
+                          </div>
+                      </div>
+                  </div>
+                  <div class="col-md-4 col-sm-6 design">
+                      <div class="portfolio-post mb30">
+                          <img src="/assets/images/portfolio/modern-era.jpg" alt="ModernEra Digital Marketing Agency">
+                          <div class="hover-box">
+                              <div class="inner-hover">
+                                  <h4>ModernERA</h4>
+                                  <p>Logo Design</p>
+                                  <a class="zoom" href="/assets/images/portfolio/modern-era.jpg" data-lightbox="portfolio-1"><i class="fa fa-picture-o"></i></a>
+                              </div>
+                          </div>
+                      </div>
+                  </div>
+                  <div class="col-md-4 col-sm-6 design">
+                      <div class="portfolio-post mb30">
+                          <img src="/assets/images/portfolio/wern-hard.jpg" alt="Wern Hard">
+                          <div class="hover-box">
+                              <div class="inner-hover">
+                                  <h4>Wern Hard</h4>
+                                  <p>Logo Design</p>
+                                  <a class="zoom" href="/assets/images/portfolio/wern-hard.jpg" data-lightbox="portfolio-1"><i class="fa fa-picture-o"></i></a>
                               </div>
                           </div>
                       </div>
