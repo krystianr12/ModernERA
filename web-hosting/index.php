@@ -78,7 +78,7 @@
               </div>
               <ul class="package-features">
                 <li>All important features <i class="fa fa-question-circle" data-toggle="important-features"></i></li>
-                <li><strong>Free</strong> domain forever</li>
+                <li><strong>Free</strong> domain</li>
                 <li><strong>Up to</strong> 1 website per account</li>
                 <li><strong>Up to</strong> 5GB of SSD Storage</li>
                 <li><strong>Up to</strong> 20GB Bandwidth</li>
@@ -116,7 +116,7 @@
               </div>
               <ul class="package-features">
                 <li>All important features <i class="fa fa-question-circle" data-toggle="important-features"></i></li>
-                <li><strong>Up to</strong> 2 free domains forever</li>
+                <li><strong>Up to</strong> 2 free domains</li>
                 <li><strong>Up to</strong> 2 websites per account</li>
                 <li><strong>Up to</strong> 10GB of SSD Storage</li>
                 <li><strong>Up to</strong> 30GB Bandwidth</li>
