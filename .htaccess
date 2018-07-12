@@ -6,4 +6,4 @@ RewriteCond %{REQUEST_URI} !^/\.well-known/acme-challenge/[0-9a-zA-Z_-]+$
 RewriteCond %{REQUEST_URI} !^/\.well-known/pki-validation/[A-F0-9]{32}\.txt(?:\ Comodo\ DCV)?$
 RewriteRule ^(.*)$ https://www.moderneradma.com/$1 [R,L]
 
-ErrorDocument 404 http://moderneradma.com/not-found/
+ErrorDocument 404 https://moderneradma.com/not-found/
