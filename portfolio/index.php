@@ -240,6 +240,42 @@
                           </div>
                       </div>
                   </div>
+                  <div class="col-md-4 col-sm-6 html web">
+                      <div class="portfolio-post mb30">
+                          <img src="/assets/images/portfolio/massonry/anytime-fitness.jpg" alt="">
+                          <div class="hover-box">
+                              <div class="inner-hover">
+                                  <h4>Anytime Fitness</h4>
+                                  <p>Web Design</p>
+                                  <a class="zoom" href="/assets/images/portfolio/massonry/anytime-fitness-website.png" data-lightbox="portfolio-1"><i class="fa fa-picture-o"></i></a>
+                              </div>
+                          </div>
+                      </div>
+                  </div>
+                  <div class="col-md-4 col-sm-6 html web">
+                      <div class="portfolio-post mb30">
+                          <img src="/assets/images/portfolio/massonry/cherenafilms.jpg" alt="">
+                          <div class="hover-box">
+                              <div class="inner-hover">
+                                  <h4>CherenaFilms</h4>
+                                  <p>Web Design</p>
+                                  <a class="zoom" href="/assets/images/portfolio/massonry/cherenafilms-website.png" data-lightbox="portfolio-1"><i class="fa fa-picture-o"></i></a>
+                              </div>
+                          </div>
+                      </div>
+                  </div>
+                  <div class="col-md-4 col-sm-6 html web">
+                      <div class="portfolio-post mb30">
+                          <img src="/assets/images/portfolio/massonry/sarasota-christian-church.jpg" alt="">
+                          <div class="hover-box">
+                              <div class="inner-hover">
+                                  <h4>Sarasota Christian Church</h4>
+                                  <p>Web Design</p>
+                                  <a class="zoom" href="/assets/images/portfolio/massonry/sarasota-church-website.png" data-lightbox="portfolio-1"><i class="fa fa-picture-o"></i></a>
+                              </div>
+                          </div>
+                      </div>
+                  </div>
               </div>
           </div>
       </div>
