@@ -126,8 +126,8 @@
             <div class="package-body">
               <div class="wrapper">
                 <p>Starting at only</p>
-                <strong id="price">$1,499.99</strong>
-                <p class="text-muted">Was: $1,745.00</p>
+                <strong id="price">$699.99</strong>
+                <p class="text-muted">Was: $859.99</p>
                 <a class="btn btn-primary" href="https://billing.moderneradma.com/cart.php?a=add&pid=6">Sign Up</a>
               </div>
               <ul class="package-features">
@@ -169,8 +169,8 @@
             <div class="package-body">
               <div class="wrapper">
                 <p>Starting at only</p>
-                <strong id="price">$1,749.99</strong>
-                <p class="text-muted">Was: $2,199.99</p>
+                <strong id="price">$999.99</strong>
+                <p class="text-muted">Was: $1,199.99</p>
                 <a class="btn btn-primary" href="https://billing.moderneradma.com/cart.php?a=add&pid=8">Sign Up</a>
               </div>
               <ul class="package-features">
@@ -212,8 +212,8 @@
             <div class="package-body">
               <div class="wrapper">
                 <p>Starting at only</p>
-                <strong id="price">$2,989.99</strong>
-                <p class="text-muted">Was: $3,499.99</p>
+                <strong id="price">$1,459.99</strong>
+                <p class="text-muted">Was: $1,799.99</p>
                 <a class="btn btn-primary" href="https://billing.moderneradma.com/cart.php?a=add&pid=10">Sign Up</a>
               </div>
               <ul class="package-features">
