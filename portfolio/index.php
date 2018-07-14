@@ -55,7 +55,7 @@
                                   <p>Logo & Flyer Design</p>
                                   <a class="link" href="/portfolio/manatee-macs/"><i class="fa fa-search"></i></a>
                               </div>
-                              <!-- <a class="zoom" href="/assets/images/portfolio/massonry/macs.jpg" data-lightbox="portfolio-1"><i class="fa fa-picture-o"></i></a> -->
+                              <!-- <a class="zoom" href="/assets/images/portfolio/massonry/macs.jpg" data-fancybox="portfolio-1"><i class="fa fa-picture-o"></i></a> -->
                           </div>
                       </div>
                   </div>
@@ -67,7 +67,7 @@
                                   <h4>Mike's Tree Trimming</h4>
                                   <p>Logo & T-Shirt Design</p>
                                   <a class="link" href="/portfolio/mikes-tree-trimming/"><i class="fa fa-search"></i></a>
-                                  <!-- <a class="zoom" href="/assets/images/portfolio/massonry/3.jpg" data-lightbox="portfolio-1"><i class="fa fa-picture-o"></i></a> -->
+                                  <!-- <a class="zoom" href="/assets/images/portfolio/massonry/3.jpg" data-fancybox="portfolio-1"><i class="fa fa-picture-o"></i></a> -->
                               </div>
                           </div>
                       </div>
@@ -79,7 +79,7 @@
                               <div class="inner-hover">
                                   <h4>Audi</h4>
                                   <p>Videography</p>
-                                  <a class="zoom" href="https://www.youtube.com/embed/ylQ0KEmQx9k" data-lightbox="portfolio-1"><i class="fa fa-video-camera"></i></a>
+                                  <a class="zoom" href="https://www.youtube.com/embed/ylQ0KEmQx9k" data-fancybox="portfolio-1"><i class="fa fa-video-camera"></i></a>
                               </div>
                           </div>
                       </div>
@@ -91,7 +91,7 @@
                               <div class="inner-hover">
                                   <h4>Florida Splash</h4>
                                   <p>Web Design</p>
-                                  <a class="zoom" href="/assets/images/portfolio/florida-splash.jpg" data-lightbox="portfolio-1"><i class="fa fa-picture-o"></i></a>
+                                  <a class="zoom" href="/assets/images/portfolio/florida-splash.jpg" data-fancybox="portfolio-1"><i class="fa fa-picture-o"></i></a>
                               </div>
                           </div>
                       </div>
@@ -103,7 +103,7 @@
                               <div class="inner-hover">
                                   <h4>3AM Thoughts</h4>
                                   <p>Logo Design</p>
-                                  <a class="zoom" href="/assets/images/portfolio/3amthoughts.jpg" data-lightbox="portfolio-1"><i class="fa fa-picture-o"></i></a>
+                                  <a class="zoom" href="/assets/images/portfolio/3amthoughts.jpg" data-fancybox="portfolio-1"><i class="fa fa-picture-o"></i></a>
                               </div>
                           </div>
                       </div>
@@ -115,7 +115,7 @@
                               <div class="inner-hover">
                                   <h4>Arsenal</h4>
                                   <p>Logo Design</p>
-                                  <a class="zoom" href="/assets/images/portfolio/arsenal.jpg" data-lightbox="portfolio-1"><i class="fa fa-picture-o"></i></a>
+                                  <a class="zoom" href="/assets/images/portfolio/arsenal.jpg" data-fancybox="portfolio-1"><i class="fa fa-picture-o"></i></a>
                               </div>
                           </div>
                       </div>
@@ -127,7 +127,7 @@
                               <div class="inner-hover">
                                   <h4>American Auto</h4>
                                   <p>Logo Design</p>
-                                  <a class="zoom" href="/assets/images/portfolio/american-auto.jpg" data-lightbox="portfolio-1"><i class="fa fa-picture-o"></i></a>
+                                  <a class="zoom" href="/assets/images/portfolio/american-auto.jpg" data-fancybox="portfolio-1"><i class="fa fa-picture-o"></i></a>
                               </div>
                           </div>
                       </div>
@@ -139,7 +139,7 @@
                               <div class="inner-hover">
                                   <h4>Anton Nelson</h4>
                                   <p>Logo Design</p>
-                                  <a class="zoom" href="/assets/images/portfolio/anton-nelson.jpg" data-lightbox="portfolio-1"><i class="fa fa-picture-o"></i></a>
+                                  <a class="zoom" href="/assets/images/portfolio/anton-nelson.jpg" data-fancybox="portfolio-1"><i class="fa fa-picture-o"></i></a>
                               </div>
                           </div>
                       </div>
@@ -151,7 +151,7 @@
                               <div class="inner-hover">
                                   <h4>Bra Blider</h4>
                                   <p>Logo Design</p>
-                                  <a class="zoom" href="/assets/images/portfolio/bra-blider.jpg" data-lightbox="portfolio-1"><i class="fa fa-picture-o"></i></a>
+                                  <a class="zoom" href="/assets/images/portfolio/bra-blider.jpg" data-fancybox="portfolio-1"><i class="fa fa-picture-o"></i></a>
                               </div>
                           </div>
                       </div>
@@ -163,7 +163,7 @@
                               <div class="inner-hover">
                                   <h4>Creativity</h4>
                                   <p>Logo Design</p>
-                                  <a class="zoom" href="/assets/images/portfolio/creativity.jpg" data-lightbox="portfolio-1"><i class="fa fa-picture-o"></i></a>
+                                  <a class="zoom" href="/assets/images/portfolio/creativity.jpg" data-fancybox="portfolio-1"><i class="fa fa-picture-o"></i></a>
                               </div>
                           </div>
                       </div>
@@ -175,7 +175,7 @@
                               <div class="inner-hover">
                                   <h4>Crypto Trend Signals</h4>
                                   <p>Logo Design</p>
-                                  <a class="zoom" href="/assets/images/portfolio/crypto-trend-signals.jpg" data-lightbox="portfolio-1"><i class="fa fa-picture-o"></i></a>
+                                  <a class="zoom" href="/assets/images/portfolio/crypto-trend-signals.jpg" data-fancybox="portfolio-1"><i class="fa fa-picture-o"></i></a>
                               </div>
                           </div>
                       </div>
@@ -187,7 +187,7 @@
                               <div class="inner-hover">
                                   <h4>Gear Fitness</h4>
                                   <p>Logo Design</p>
-                                  <a class="zoom" href="/assets/images/portfolio/gear-fitness.jpg" data-lightbox="portfolio-1"><i class="fa fa-picture-o"></i></a>
+                                  <a class="zoom" href="/assets/images/portfolio/gear-fitness.jpg" data-fancybox="portfolio-1"><i class="fa fa-picture-o"></i></a>
                               </div>
                           </div>
                       </div>
@@ -199,7 +199,7 @@
                               <div class="inner-hover">
                                   <h4>Green Homes</h4>
                                   <p>Logo Design</p>
-                                  <a class="zoom" href="/assets/images/portfolio/green-homes.jpg" data-lightbox="portfolio-1"><i class="fa fa-picture-o"></i></a>
+                                  <a class="zoom" href="/assets/images/portfolio/green-homes.jpg" data-fancybox="portfolio-1"><i class="fa fa-picture-o"></i></a>
                               </div>
                           </div>
                       </div>
@@ -211,7 +211,7 @@
                               <div class="inner-hover">
                                   <h4>Infinity Geek</h4>
                                   <p>Logo Design</p>
-                                  <a class="zoom" href="/assets/images/portfolio/infinity-geek.jpg" data-lightbox="portfolio-1"><i class="fa fa-picture-o"></i></a>
+                                  <a class="zoom" href="/assets/images/portfolio/infinity-geek.jpg" data-fancybox="portfolio-1"><i class="fa fa-picture-o"></i></a>
                               </div>
                           </div>
                       </div>
@@ -223,7 +223,7 @@
                               <div class="inner-hover">
                                   <h4>ModernERA</h4>
                                   <p>Logo Design</p>
-                                  <a class="zoom" href="/assets/images/portfolio/modern-era.jpg" data-lightbox="portfolio-1"><i class="fa fa-picture-o"></i></a>
+                                  <a class="zoom" href="/assets/images/portfolio/modern-era.jpg" data-fancybox="portfolio-1"><i class="fa fa-picture-o"></i></a>
                               </div>
                           </div>
                       </div>
@@ -235,7 +235,7 @@
                               <div class="inner-hover">
                                   <h4>Wern Hard</h4>
                                   <p>Logo Design</p>
-                                  <a class="zoom" href="/assets/images/portfolio/wern-hard.jpg" data-lightbox="portfolio-1"><i class="fa fa-picture-o"></i></a>
+                                  <a class="zoom" href="/assets/images/portfolio/wern-hard.jpg" data-fancybox="portfolio-1"><i class="fa fa-picture-o"></i></a>
                               </div>
                           </div>
                       </div>
@@ -247,7 +247,7 @@
                               <div class="inner-hover">
                                   <h4>Anytime Fitness</h4>
                                   <p>Web Design</p>
-                                  <a class="zoom" href="/assets/images/portfolio/massonry/anytime-fitness-website.png" data-lightbox="portfolio-1"><i class="fa fa-picture-o"></i></a>
+                                  <a class="zoom" href="/assets/images/portfolio/massonry/anytime-fitness-website.png" data-fancybox="portfolio-1"><i class="fa fa-picture-o"></i></a>
                               </div>
                           </div>
                       </div>
@@ -259,7 +259,7 @@
                               <div class="inner-hover">
                                   <h4>CherenaFilms</h4>
                                   <p>Web Design</p>
-                                  <a class="zoom" href="/assets/images/portfolio/massonry/cherenafilms-website.png" data-lightbox="portfolio-1"><i class="fa fa-picture-o"></i></a>
+                                  <a class="zoom" href="/assets/images/portfolio/massonry/cherenafilms-website.png" data-fancybox="portfolio-1"><i class="fa fa-picture-o"></i></a>
                               </div>
                           </div>
                       </div>
@@ -271,7 +271,7 @@
                               <div class="inner-hover">
                                   <h4>Sarasota Christian Church</h4>
                                   <p>Web Design</p>
-                                  <a class="zoom" href="/assets/images/portfolio/massonry/sarasota-church-website.png" data-lightbox="portfolio-1"><i class="fa fa-picture-o"></i></a>
+                                  <a class="zoom" href="/assets/images/portfolio/massonry/sarasota-church-website.png" data-fancybox="portfolio-1"><i class="fa fa-picture-o"></i></a>
                               </div>
                           </div>
                       </div>
